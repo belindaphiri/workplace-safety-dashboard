@@ -1,0 +1,125 @@
+{
+  "total_incidents": 105996,
+  "total_hospitalised": 86518,
+  "total_amputations": 27978,
+  "amputation_rate_pct": 26.4,
+  "incidents_2025_jan_nov": 8712,
+  "incidents_2024_jan_nov": 8340,
+  "yoy_change_pct_like_for_like": 4.5,
+  "incidents_3m_avg_latest": 748.7,
+  "top_industry": "Manufacturing",
+  "top_industry_incidents": 34472,
+  "top_industry_share_pct": 32.5,
+  "top_state": [
+    "TEXAS",
+    17491
+  ],
+  "severity_split": {
+    "Hospitalisation": 78001,
+    "Amputation": 27961,
+    "Loss of Eye": 34
+  },
+  "top_cause_overall": [
+    "Floor, n.e.c.",
+    5035
+  ],
+  "top_amputation_causes": [
+    [
+      "Machinery, unspecified",
+      1128
+    ],
+    [
+      "Butchering machinery",
+      745
+    ],
+    [
+      "Forklift, order picker, platform truck-powered",
+      651
+    ],
+    [
+      "Nonclassifiable",
+      646
+    ],
+    [
+      "Metal, woodworking, and special material machinery, unspecified",
+      570
+    ]
+  ],
+  "top_body_parts": [
+    [
+      "Fingertip(s)",
+      10402
+    ],
+    [
+      "Finger(s), fingernail(s), n.e.c.",
+      8236
+    ],
+    [
+      "Finger(s), fingernail(s), unspecified",
+      6821
+    ],
+    [
+      "Multiple body parts, n.e.c.",
+      5184
+    ],
+    [
+      "BODY SYSTEMS",
+      4940
+    ]
+  ],
+  "incidents_by_year": {
+    "2015": 9823,
+    "2016": 10084,
+    "2017": 10445,
+    "2018": 11156,
+    "2019": 11071,
+    "2020": 8915,
+    "2021": 8703,
+    "2022": 9110,
+    "2023": 8943,
+    "2024": 9034,
+    "2025": 8712
+  },
+  "rows_by_industry_top10": [
+    [
+      "Manufacturing",
+      34472
+    ],
+    [
+      "Construction",
+      19021
+    ],
+    [
+      "Transportation & Warehousing",
+      9381
+    ],
+    [
+      "Retail Trade",
+      8111
+    ],
+    [
+      "Wholesale Trade",
+      6121
+    ],
+    [
+      "Admin, Support & Waste Services",
+      5910
+    ],
+    [
+      "Health Care & Social Assistance",
+      5018
+    ],
+    [
+      "Mining, Oil & Gas",
+      2843
+    ],
+    [
+      "Accommodation & Food Services",
+      2166
+    ],
+    [
+      "Other Services",
+      2028
+    ]
+  ]
+}

@@ -1,0 +1,1949 @@
+year,industry,nature,incidents
+2015,Accommodation & Food Services,Amputations,44
+2015,Accommodation & Food Services,Crushing injuries,3
+2015,Accommodation & Food Services,"Cuts, lacerations",9
+2015,Accommodation & Food Services,Fractures,41
+2015,Accommodation & Food Services,"Heat (thermal) burns, unspecified",19
+2015,Accommodation & Food Services,Internal injuries to organs and blood vessels of the trunk,2
+2015,Accommodation & Food Services,"Intracranial injuries, unspecified",5
+2015,Accommodation & Food Services,Other,39
+2015,Accommodation & Food Services,"Puncture wounds, except gunshot wounds",3
+2015,Accommodation & Food Services,"Soreness, pain, hurt-nonspecified injury",24
+2015,Accommodation & Food Services,"Traumatic injuries and disorders, unspecified",13
+2015,"Admin, Support & Waste Services",Amputations,116
+2015,"Admin, Support & Waste Services",Crushing injuries,11
+2015,"Admin, Support & Waste Services","Cuts, lacerations",31
+2015,"Admin, Support & Waste Services",Fractures,139
+2015,"Admin, Support & Waste Services","Heat (thermal) burns, unspecified",5
+2015,"Admin, Support & Waste Services",Internal injuries to organs and blood vessels of the trunk,5
+2015,"Admin, Support & Waste Services","Intracranial injuries, unspecified",21
+2015,"Admin, Support & Waste Services",Other,100
+2015,"Admin, Support & Waste Services","Puncture wounds, except gunshot wounds",10
+2015,"Admin, Support & Waste Services","Soreness, pain, hurt-nonspecified injury",75
+2015,"Admin, Support & Waste Services","Traumatic injuries and disorders, unspecified",45
+2015,"Agriculture, Forestry & Fishing",Amputations,49
+2015,"Agriculture, Forestry & Fishing",Crushing injuries,2
+2015,"Agriculture, Forestry & Fishing","Cuts, lacerations",6
+2015,"Agriculture, Forestry & Fishing",Fractures,51
+2015,"Agriculture, Forestry & Fishing","Heat (thermal) burns, unspecified",1
+2015,"Agriculture, Forestry & Fishing",Internal injuries to organs and blood vessels of the trunk,6
+2015,"Agriculture, Forestry & Fishing","Intracranial injuries, unspecified",5
+2015,"Agriculture, Forestry & Fishing",Other,20
+2015,"Agriculture, Forestry & Fishing","Puncture wounds, except gunshot wounds",4
+2015,"Agriculture, Forestry & Fishing","Soreness, pain, hurt-nonspecified injury",20
+2015,"Agriculture, Forestry & Fishing","Traumatic injuries and disorders, unspecified",10
+2015,"Arts, Entertainment & Recreation",Amputations,20
+2015,"Arts, Entertainment & Recreation",Crushing injuries,1
+2015,"Arts, Entertainment & Recreation",Fractures,41
+2015,"Arts, Entertainment & Recreation","Heat (thermal) burns, unspecified",1
+2015,"Arts, Entertainment & Recreation",Internal injuries to organs and blood vessels of the trunk,1
+2015,"Arts, Entertainment & Recreation","Intracranial injuries, unspecified",5
+2015,"Arts, Entertainment & Recreation",Other,12
+2015,"Arts, Entertainment & Recreation","Puncture wounds, except gunshot wounds",2
+2015,"Arts, Entertainment & Recreation","Soreness, pain, hurt-nonspecified injury",15
+2015,"Arts, Entertainment & Recreation","Traumatic injuries and disorders, unspecified",12
+2015,Construction,Amputations,272
+2015,Construction,Crushing injuries,24
+2015,Construction,"Cuts, lacerations",100
+2015,Construction,Fractures,478
+2015,Construction,"Heat (thermal) burns, unspecified",24
+2015,Construction,Internal injuries to organs and blood vessels of the trunk,27
+2015,Construction,"Intracranial injuries, unspecified",49
+2015,Construction,Other,262
+2015,Construction,"Puncture wounds, except gunshot wounds",37
+2015,Construction,"Soreness, pain, hurt-nonspecified injury",214
+2015,Construction,"Traumatic injuries and disorders, unspecified",224
+2015,Educational Services,Amputations,8
+2015,Educational Services,"Cuts, lacerations",3
+2015,Educational Services,Fractures,13
+2015,Educational Services,"Intracranial injuries, unspecified",1
+2015,Educational Services,Other,9
+2015,Educational Services,"Puncture wounds, except gunshot wounds",3
+2015,Educational Services,"Soreness, pain, hurt-nonspecified injury",3
+2015,Educational Services,"Traumatic injuries and disorders, unspecified",4
+2015,Finance & Insurance,Amputations,1
+2015,Finance & Insurance,"Cuts, lacerations",1
+2015,Finance & Insurance,Fractures,11
+2015,Finance & Insurance,"Intracranial injuries, unspecified",4
+2015,Finance & Insurance,Other,6
+2015,Finance & Insurance,"Soreness, pain, hurt-nonspecified injury",8
+2015,Finance & Insurance,"Traumatic injuries and disorders, unspecified",6
+2015,Health Care & Social Assistance,Amputations,34
+2015,Health Care & Social Assistance,Crushing injuries,1
+2015,Health Care & Social Assistance,"Cuts, lacerations",11
+2015,Health Care & Social Assistance,Fractures,169
+2015,Health Care & Social Assistance,"Heat (thermal) burns, unspecified",9
+2015,Health Care & Social Assistance,Internal injuries to organs and blood vessels of the trunk,1
+2015,Health Care & Social Assistance,"Intracranial injuries, unspecified",17
+2015,Health Care & Social Assistance,Other,80
+2015,Health Care & Social Assistance,"Puncture wounds, except gunshot wounds",10
+2015,Health Care & Social Assistance,"Soreness, pain, hurt-nonspecified injury",79
+2015,Health Care & Social Assistance,"Traumatic injuries and disorders, unspecified",27
+2015,Information,Amputations,21
+2015,Information,"Cuts, lacerations",1
+2015,Information,Fractures,39
+2015,Information,"Heat (thermal) burns, unspecified",1
+2015,Information,"Intracranial injuries, unspecified",3
+2015,Information,Other,19
+2015,Information,"Puncture wounds, except gunshot wounds",4
+2015,Information,"Soreness, pain, hurt-nonspecified injury",22
+2015,Information,"Traumatic injuries and disorders, unspecified",13
+2015,Management of Companies,Fractures,4
+2015,Management of Companies,Other,2
+2015,Management of Companies,"Soreness, pain, hurt-nonspecified injury",1
+2015,Management of Companies,"Traumatic injuries and disorders, unspecified",1
+2015,Manufacturing,Amputations,1534
+2015,Manufacturing,Crushing injuries,82
+2015,Manufacturing,"Cuts, lacerations",164
+2015,Manufacturing,Fractures,578
+2015,Manufacturing,"Heat (thermal) burns, unspecified",81
+2015,Manufacturing,Internal injuries to organs and blood vessels of the trunk,24
+2015,Manufacturing,"Intracranial injuries, unspecified",41
+2015,Manufacturing,Other,415
+2015,Manufacturing,"Puncture wounds, except gunshot wounds",50
+2015,Manufacturing,"Soreness, pain, hurt-nonspecified injury",316
+2015,Manufacturing,"Traumatic injuries and disorders, unspecified",144
+2015,"Mining, Oil & Gas",Amputations,96
+2015,"Mining, Oil & Gas",Crushing injuries,5
+2015,"Mining, Oil & Gas","Cuts, lacerations",11
+2015,"Mining, Oil & Gas",Fractures,70
+2015,"Mining, Oil & Gas","Heat (thermal) burns, unspecified",17
+2015,"Mining, Oil & Gas",Internal injuries to organs and blood vessels of the trunk,3
+2015,"Mining, Oil & Gas","Intracranial injuries, unspecified",2
+2015,"Mining, Oil & Gas",Other,54
+2015,"Mining, Oil & Gas","Puncture wounds, except gunshot wounds",6
+2015,"Mining, Oil & Gas","Soreness, pain, hurt-nonspecified injury",41
+2015,"Mining, Oil & Gas","Traumatic injuries and disorders, unspecified",24
+2015,Other Services,Amputations,50
+2015,Other Services,Crushing injuries,1
+2015,Other Services,"Cuts, lacerations",13
+2015,Other Services,Fractures,37
+2015,Other Services,"Heat (thermal) burns, unspecified",3
+2015,Other Services,Internal injuries to organs and blood vessels of the trunk,2
+2015,Other Services,"Intracranial injuries, unspecified",5
+2015,Other Services,Other,25
+2015,Other Services,"Puncture wounds, except gunshot wounds",5
+2015,Other Services,"Soreness, pain, hurt-nonspecified injury",21
+2015,Other Services,"Traumatic injuries and disorders, unspecified",12
+2015,Professional & Technical Services,Amputations,21
+2015,Professional & Technical Services,Crushing injuries,2
+2015,Professional & Technical Services,"Cuts, lacerations",9
+2015,Professional & Technical Services,Fractures,41
+2015,Professional & Technical Services,Internal injuries to organs and blood vessels of the trunk,2
+2015,Professional & Technical Services,"Intracranial injuries, unspecified",5
+2015,Professional & Technical Services,Other,22
+2015,Professional & Technical Services,"Puncture wounds, except gunshot wounds",11
+2015,Professional & Technical Services,"Soreness, pain, hurt-nonspecified injury",22
+2015,Professional & Technical Services,"Traumatic injuries and disorders, unspecified",11
+2015,Public Administration,Amputations,22
+2015,Public Administration,Crushing injuries,2
+2015,Public Administration,"Cuts, lacerations",5
+2015,Public Administration,Fractures,36
+2015,Public Administration,"Heat (thermal) burns, unspecified",1
+2015,Public Administration,Internal injuries to organs and blood vessels of the trunk,2
+2015,Public Administration,"Intracranial injuries, unspecified",6
+2015,Public Administration,Other,26
+2015,Public Administration,"Puncture wounds, except gunshot wounds",5
+2015,Public Administration,"Soreness, pain, hurt-nonspecified injury",11
+2015,Public Administration,"Traumatic injuries and disorders, unspecified",6
+2015,Real Estate & Leasing,Amputations,21
+2015,Real Estate & Leasing,Crushing injuries,3
+2015,Real Estate & Leasing,"Cuts, lacerations",2
+2015,Real Estate & Leasing,Fractures,29
+2015,Real Estate & Leasing,Other,11
+2015,Real Estate & Leasing,"Soreness, pain, hurt-nonspecified injury",15
+2015,Real Estate & Leasing,"Traumatic injuries and disorders, unspecified",8
+2015,Retail Trade,Amputations,136
+2015,Retail Trade,Crushing injuries,9
+2015,Retail Trade,"Cuts, lacerations",31
+2015,Retail Trade,Fractures,208
+2015,Retail Trade,"Heat (thermal) burns, unspecified",9
+2015,Retail Trade,Internal injuries to organs and blood vessels of the trunk,6
+2015,Retail Trade,"Intracranial injuries, unspecified",33
+2015,Retail Trade,Other,88
+2015,Retail Trade,"Puncture wounds, except gunshot wounds",11
+2015,Retail Trade,"Soreness, pain, hurt-nonspecified injury",82
+2015,Retail Trade,"Traumatic injuries and disorders, unspecified",57
+2015,Transportation & Warehousing,Amputations,117
+2015,Transportation & Warehousing,Crushing injuries,20
+2015,Transportation & Warehousing,"Cuts, lacerations",17
+2015,Transportation & Warehousing,Fractures,257
+2015,Transportation & Warehousing,"Heat (thermal) burns, unspecified",4
+2015,Transportation & Warehousing,Internal injuries to organs and blood vessels of the trunk,25
+2015,Transportation & Warehousing,"Intracranial injuries, unspecified",31
+2015,Transportation & Warehousing,Other,125
+2015,Transportation & Warehousing,"Puncture wounds, except gunshot wounds",13
+2015,Transportation & Warehousing,"Soreness, pain, hurt-nonspecified injury",133
+2015,Transportation & Warehousing,"Traumatic injuries and disorders, unspecified",80
+2015,Unknown,Other,1
+2015,Unknown,"Soreness, pain, hurt-nonspecified injury",1
+2015,Utilities,Amputations,18
+2015,Utilities,Crushing injuries,1
+2015,Utilities,"Cuts, lacerations",2
+2015,Utilities,Fractures,29
+2015,Utilities,"Heat (thermal) burns, unspecified",1
+2015,Utilities,Internal injuries to organs and blood vessels of the trunk,1
+2015,Utilities,"Intracranial injuries, unspecified",2
+2015,Utilities,Other,45
+2015,Utilities,"Puncture wounds, except gunshot wounds",2
+2015,Utilities,"Soreness, pain, hurt-nonspecified injury",10
+2015,Utilities,"Traumatic injuries and disorders, unspecified",8
+2015,Wholesale Trade,Amputations,146
+2015,Wholesale Trade,Crushing injuries,19
+2015,Wholesale Trade,"Cuts, lacerations",22
+2015,Wholesale Trade,Fractures,117
+2015,Wholesale Trade,"Heat (thermal) burns, unspecified",11
+2015,Wholesale Trade,Internal injuries to organs and blood vessels of the trunk,5
+2015,Wholesale Trade,"Intracranial injuries, unspecified",15
+2015,Wholesale Trade,Other,61
+2015,Wholesale Trade,"Puncture wounds, except gunshot wounds",10
+2015,Wholesale Trade,"Soreness, pain, hurt-nonspecified injury",71
+2015,Wholesale Trade,"Traumatic injuries and disorders, unspecified",39
+2016,Accommodation & Food Services,Amputations,44
+2016,Accommodation & Food Services,"Cuts, lacerations",10
+2016,Accommodation & Food Services,Fractures,58
+2016,Accommodation & Food Services,"Heat (thermal) burns, unspecified",14
+2016,Accommodation & Food Services,Internal injuries to organs and blood vessels of the trunk,3
+2016,Accommodation & Food Services,"Intracranial injuries, unspecified",1
+2016,Accommodation & Food Services,Other,56
+2016,Accommodation & Food Services,"Puncture wounds, except gunshot wounds",2
+2016,Accommodation & Food Services,"Soreness, pain, hurt-nonspecified injury",21
+2016,Accommodation & Food Services,"Traumatic injuries and disorders, unspecified",7
+2016,"Admin, Support & Waste Services",Amputations,104
+2016,"Admin, Support & Waste Services",Crushing injuries,11
+2016,"Admin, Support & Waste Services","Cuts, lacerations",39
+2016,"Admin, Support & Waste Services",Fractures,141
+2016,"Admin, Support & Waste Services","Heat (thermal) burns, unspecified",4
+2016,"Admin, Support & Waste Services",Internal injuries to organs and blood vessels of the trunk,4
+2016,"Admin, Support & Waste Services","Intracranial injuries, unspecified",16
+2016,"Admin, Support & Waste Services",Other,114
+2016,"Admin, Support & Waste Services","Puncture wounds, except gunshot wounds",11
+2016,"Admin, Support & Waste Services","Soreness, pain, hurt-nonspecified injury",43
+2016,"Admin, Support & Waste Services","Traumatic injuries and disorders, unspecified",15
+2016,"Agriculture, Forestry & Fishing",Amputations,55
+2016,"Agriculture, Forestry & Fishing",Crushing injuries,2
+2016,"Agriculture, Forestry & Fishing","Cuts, lacerations",6
+2016,"Agriculture, Forestry & Fishing",Fractures,49
+2016,"Agriculture, Forestry & Fishing","Heat (thermal) burns, unspecified",1
+2016,"Agriculture, Forestry & Fishing",Internal injuries to organs and blood vessels of the trunk,4
+2016,"Agriculture, Forestry & Fishing","Intracranial injuries, unspecified",3
+2016,"Agriculture, Forestry & Fishing",Other,44
+2016,"Agriculture, Forestry & Fishing","Puncture wounds, except gunshot wounds",3
+2016,"Agriculture, Forestry & Fishing","Soreness, pain, hurt-nonspecified injury",21
+2016,"Agriculture, Forestry & Fishing","Traumatic injuries and disorders, unspecified",1
+2016,"Arts, Entertainment & Recreation",Amputations,23
+2016,"Arts, Entertainment & Recreation",Crushing injuries,1
+2016,"Arts, Entertainment & Recreation","Cuts, lacerations",6
+2016,"Arts, Entertainment & Recreation",Fractures,55
+2016,"Arts, Entertainment & Recreation","Heat (thermal) burns, unspecified",1
+2016,"Arts, Entertainment & Recreation",Internal injuries to organs and blood vessels of the trunk,5
+2016,"Arts, Entertainment & Recreation","Intracranial injuries, unspecified",6
+2016,"Arts, Entertainment & Recreation",Other,28
+2016,"Arts, Entertainment & Recreation","Puncture wounds, except gunshot wounds",1
+2016,"Arts, Entertainment & Recreation","Soreness, pain, hurt-nonspecified injury",12
+2016,"Arts, Entertainment & Recreation","Traumatic injuries and disorders, unspecified",2
+2016,Construction,Amputations,271
+2016,Construction,Crushing injuries,31
+2016,Construction,"Cuts, lacerations",107
+2016,Construction,Fractures,695
+2016,Construction,"Heat (thermal) burns, unspecified",36
+2016,Construction,Internal injuries to organs and blood vessels of the trunk,56
+2016,Construction,"Intracranial injuries, unspecified",42
+2016,Construction,Other,385
+2016,Construction,"Puncture wounds, except gunshot wounds",34
+2016,Construction,"Soreness, pain, hurt-nonspecified injury",149
+2016,Construction,"Traumatic injuries and disorders, unspecified",61
+2016,Educational Services,Amputations,7
+2016,Educational Services,Crushing injuries,1
+2016,Educational Services,"Cuts, lacerations",3
+2016,Educational Services,Fractures,13
+2016,Educational Services,"Heat (thermal) burns, unspecified",1
+2016,Educational Services,"Intracranial injuries, unspecified",4
+2016,Educational Services,Other,11
+2016,Educational Services,"Soreness, pain, hurt-nonspecified injury",4
+2016,Educational Services,"Traumatic injuries and disorders, unspecified",1
+2016,Finance & Insurance,Amputations,5
+2016,Finance & Insurance,"Cuts, lacerations",1
+2016,Finance & Insurance,Fractures,11
+2016,Finance & Insurance,"Intracranial injuries, unspecified",1
+2016,Finance & Insurance,Other,9
+2016,Finance & Insurance,"Soreness, pain, hurt-nonspecified injury",2
+2016,Health Care & Social Assistance,Amputations,32
+2016,Health Care & Social Assistance,Crushing injuries,1
+2016,Health Care & Social Assistance,"Cuts, lacerations",13
+2016,Health Care & Social Assistance,Fractures,207
+2016,Health Care & Social Assistance,"Heat (thermal) burns, unspecified",3
+2016,Health Care & Social Assistance,Internal injuries to organs and blood vessels of the trunk,5
+2016,Health Care & Social Assistance,"Intracranial injuries, unspecified",12
+2016,Health Care & Social Assistance,Other,124
+2016,Health Care & Social Assistance,"Puncture wounds, except gunshot wounds",3
+2016,Health Care & Social Assistance,"Soreness, pain, hurt-nonspecified injury",72
+2016,Health Care & Social Assistance,"Traumatic injuries and disorders, unspecified",7
+2016,Information,Amputations,7
+2016,Information,"Cuts, lacerations",4
+2016,Information,Fractures,39
+2016,Information,Internal injuries to organs and blood vessels of the trunk,4
+2016,Information,"Intracranial injuries, unspecified",1
+2016,Information,Other,25
+2016,Information,"Puncture wounds, except gunshot wounds",3
+2016,Information,"Soreness, pain, hurt-nonspecified injury",11
+2016,Information,"Traumatic injuries and disorders, unspecified",2
+2016,Management of Companies,Amputations,1
+2016,Management of Companies,Fractures,1
+2016,Management of Companies,Other,1
+2016,Manufacturing,Amputations,1506
+2016,Manufacturing,Crushing injuries,98
+2016,Manufacturing,"Cuts, lacerations",176
+2016,Manufacturing,Fractures,689
+2016,Manufacturing,"Heat (thermal) burns, unspecified",81
+2016,Manufacturing,Internal injuries to organs and blood vessels of the trunk,49
+2016,Manufacturing,"Intracranial injuries, unspecified",31
+2016,Manufacturing,Other,489
+2016,Manufacturing,"Puncture wounds, except gunshot wounds",43
+2016,Manufacturing,"Soreness, pain, hurt-nonspecified injury",184
+2016,Manufacturing,"Traumatic injuries and disorders, unspecified",25
+2016,"Mining, Oil & Gas",Amputations,61
+2016,"Mining, Oil & Gas",Crushing injuries,8
+2016,"Mining, Oil & Gas","Cuts, lacerations",13
+2016,"Mining, Oil & Gas",Fractures,65
+2016,"Mining, Oil & Gas","Heat (thermal) burns, unspecified",10
+2016,"Mining, Oil & Gas",Internal injuries to organs and blood vessels of the trunk,5
+2016,"Mining, Oil & Gas","Intracranial injuries, unspecified",2
+2016,"Mining, Oil & Gas",Other,49
+2016,"Mining, Oil & Gas","Puncture wounds, except gunshot wounds",1
+2016,"Mining, Oil & Gas","Soreness, pain, hurt-nonspecified injury",20
+2016,"Mining, Oil & Gas","Traumatic injuries and disorders, unspecified",5
+2016,Other Services,Amputations,46
+2016,Other Services,Crushing injuries,3
+2016,Other Services,"Cuts, lacerations",13
+2016,Other Services,Fractures,45
+2016,Other Services,"Heat (thermal) burns, unspecified",4
+2016,Other Services,Internal injuries to organs and blood vessels of the trunk,3
+2016,Other Services,"Intracranial injuries, unspecified",4
+2016,Other Services,Other,28
+2016,Other Services,"Puncture wounds, except gunshot wounds",6
+2016,Other Services,"Soreness, pain, hurt-nonspecified injury",13
+2016,Other Services,"Traumatic injuries and disorders, unspecified",4
+2016,Professional & Technical Services,Amputations,43
+2016,Professional & Technical Services,"Cuts, lacerations",12
+2016,Professional & Technical Services,Fractures,58
+2016,Professional & Technical Services,"Heat (thermal) burns, unspecified",1
+2016,Professional & Technical Services,Internal injuries to organs and blood vessels of the trunk,3
+2016,Professional & Technical Services,"Intracranial injuries, unspecified",2
+2016,Professional & Technical Services,Other,48
+2016,Professional & Technical Services,"Puncture wounds, except gunshot wounds",9
+2016,Professional & Technical Services,"Soreness, pain, hurt-nonspecified injury",14
+2016,Professional & Technical Services,"Traumatic injuries and disorders, unspecified",3
+2016,Public Administration,Amputations,27
+2016,Public Administration,Crushing injuries,2
+2016,Public Administration,"Cuts, lacerations",9
+2016,Public Administration,Fractures,30
+2016,Public Administration,"Intracranial injuries, unspecified",3
+2016,Public Administration,Other,30
+2016,Public Administration,"Puncture wounds, except gunshot wounds",3
+2016,Public Administration,"Soreness, pain, hurt-nonspecified injury",13
+2016,Public Administration,"Traumatic injuries and disorders, unspecified",6
+2016,Real Estate & Leasing,Amputations,15
+2016,Real Estate & Leasing,Crushing injuries,1
+2016,Real Estate & Leasing,"Cuts, lacerations",5
+2016,Real Estate & Leasing,Fractures,28
+2016,Real Estate & Leasing,"Heat (thermal) burns, unspecified",1
+2016,Real Estate & Leasing,"Intracranial injuries, unspecified",5
+2016,Real Estate & Leasing,Other,22
+2016,Real Estate & Leasing,"Soreness, pain, hurt-nonspecified injury",11
+2016,Retail Trade,Amputations,143
+2016,Retail Trade,Crushing injuries,8
+2016,Retail Trade,"Cuts, lacerations",39
+2016,Retail Trade,Fractures,306
+2016,Retail Trade,"Heat (thermal) burns, unspecified",8
+2016,Retail Trade,Internal injuries to organs and blood vessels of the trunk,10
+2016,Retail Trade,"Intracranial injuries, unspecified",27
+2016,Retail Trade,Other,116
+2016,Retail Trade,"Puncture wounds, except gunshot wounds",14
+2016,Retail Trade,"Soreness, pain, hurt-nonspecified injury",73
+2016,Retail Trade,"Traumatic injuries and disorders, unspecified",12
+2016,Transportation & Warehousing,Amputations,123
+2016,Transportation & Warehousing,Crushing injuries,25
+2016,Transportation & Warehousing,"Cuts, lacerations",26
+2016,Transportation & Warehousing,Fractures,340
+2016,Transportation & Warehousing,"Heat (thermal) burns, unspecified",6
+2016,Transportation & Warehousing,Internal injuries to organs and blood vessels of the trunk,21
+2016,Transportation & Warehousing,"Intracranial injuries, unspecified",28
+2016,Transportation & Warehousing,Other,209
+2016,Transportation & Warehousing,"Puncture wounds, except gunshot wounds",11
+2016,Transportation & Warehousing,"Soreness, pain, hurt-nonspecified injury",85
+2016,Transportation & Warehousing,"Traumatic injuries and disorders, unspecified",20
+2016,Unknown,Fractures,2
+2016,Unknown,"Intracranial injuries, unspecified",1
+2016,Utilities,Amputations,25
+2016,Utilities,Crushing injuries,3
+2016,Utilities,"Cuts, lacerations",6
+2016,Utilities,Fractures,42
+2016,Utilities,"Heat (thermal) burns, unspecified",3
+2016,Utilities,Internal injuries to organs and blood vessels of the trunk,1
+2016,Utilities,"Intracranial injuries, unspecified",2
+2016,Utilities,Other,40
+2016,Utilities,"Puncture wounds, except gunshot wounds",1
+2016,Utilities,"Soreness, pain, hurt-nonspecified injury",7
+2016,Utilities,"Traumatic injuries and disorders, unspecified",3
+2016,Wholesale Trade,Amputations,169
+2016,Wholesale Trade,Crushing injuries,18
+2016,Wholesale Trade,"Cuts, lacerations",20
+2016,Wholesale Trade,Fractures,176
+2016,Wholesale Trade,"Heat (thermal) burns, unspecified",7
+2016,Wholesale Trade,Internal injuries to organs and blood vessels of the trunk,7
+2016,Wholesale Trade,"Intracranial injuries, unspecified",14
+2016,Wholesale Trade,Other,75
+2016,Wholesale Trade,"Puncture wounds, except gunshot wounds",4
+2016,Wholesale Trade,"Soreness, pain, hurt-nonspecified injury",54
+2016,Wholesale Trade,"Traumatic injuries and disorders, unspecified",5
+2017,Accommodation & Food Services,Amputations,50
+2017,Accommodation & Food Services,Crushing injuries,1
+2017,Accommodation & Food Services,"Cuts, lacerations",16
+2017,Accommodation & Food Services,Fractures,66
+2017,Accommodation & Food Services,"Heat (thermal) burns, unspecified",22
+2017,Accommodation & Food Services,Internal injuries to organs and blood vessels of the trunk,1
+2017,Accommodation & Food Services,"Intracranial injuries, unspecified",6
+2017,Accommodation & Food Services,Other,48
+2017,Accommodation & Food Services,"Puncture wounds, except gunshot wounds",5
+2017,Accommodation & Food Services,"Soreness, pain, hurt-nonspecified injury",18
+2017,Accommodation & Food Services,"Traumatic injuries and disorders, unspecified",3
+2017,"Admin, Support & Waste Services",Amputations,110
+2017,"Admin, Support & Waste Services",Crushing injuries,8
+2017,"Admin, Support & Waste Services","Cuts, lacerations",54
+2017,"Admin, Support & Waste Services",Fractures,203
+2017,"Admin, Support & Waste Services","Heat (thermal) burns, unspecified",11
+2017,"Admin, Support & Waste Services",Internal injuries to organs and blood vessels of the trunk,14
+2017,"Admin, Support & Waste Services","Intracranial injuries, unspecified",21
+2017,"Admin, Support & Waste Services",Other,117
+2017,"Admin, Support & Waste Services","Puncture wounds, except gunshot wounds",3
+2017,"Admin, Support & Waste Services","Soreness, pain, hurt-nonspecified injury",37
+2017,"Admin, Support & Waste Services","Traumatic injuries and disorders, unspecified",10
+2017,"Agriculture, Forestry & Fishing",Amputations,46
+2017,"Agriculture, Forestry & Fishing",Crushing injuries,6
+2017,"Agriculture, Forestry & Fishing","Cuts, lacerations",12
+2017,"Agriculture, Forestry & Fishing",Fractures,58
+2017,"Agriculture, Forestry & Fishing","Heat (thermal) burns, unspecified",1
+2017,"Agriculture, Forestry & Fishing",Internal injuries to organs and blood vessels of the trunk,5
+2017,"Agriculture, Forestry & Fishing","Intracranial injuries, unspecified",4
+2017,"Agriculture, Forestry & Fishing",Other,41
+2017,"Agriculture, Forestry & Fishing","Puncture wounds, except gunshot wounds",3
+2017,"Agriculture, Forestry & Fishing","Soreness, pain, hurt-nonspecified injury",15
+2017,"Agriculture, Forestry & Fishing","Traumatic injuries and disorders, unspecified",1
+2017,"Arts, Entertainment & Recreation",Amputations,12
+2017,"Arts, Entertainment & Recreation","Cuts, lacerations",7
+2017,"Arts, Entertainment & Recreation",Fractures,61
+2017,"Arts, Entertainment & Recreation","Heat (thermal) burns, unspecified",1
+2017,"Arts, Entertainment & Recreation","Intracranial injuries, unspecified",10
+2017,"Arts, Entertainment & Recreation",Other,30
+2017,"Arts, Entertainment & Recreation","Puncture wounds, except gunshot wounds",2
+2017,"Arts, Entertainment & Recreation","Soreness, pain, hurt-nonspecified injury",12
+2017,"Arts, Entertainment & Recreation","Traumatic injuries and disorders, unspecified",5
+2017,Construction,Amputations,293
+2017,Construction,Crushing injuries,27
+2017,Construction,"Cuts, lacerations",109
+2017,Construction,Fractures,687
+2017,Construction,"Heat (thermal) burns, unspecified",26
+2017,Construction,Internal injuries to organs and blood vessels of the trunk,54
+2017,Construction,"Intracranial injuries, unspecified",59
+2017,Construction,Other,366
+2017,Construction,"Puncture wounds, except gunshot wounds",38
+2017,Construction,"Soreness, pain, hurt-nonspecified injury",147
+2017,Construction,"Traumatic injuries and disorders, unspecified",56
+2017,Educational Services,Amputations,1
+2017,Educational Services,"Cuts, lacerations",1
+2017,Educational Services,Fractures,22
+2017,Educational Services,"Heat (thermal) burns, unspecified",3
+2017,Educational Services,"Intracranial injuries, unspecified",2
+2017,Educational Services,Other,11
+2017,Educational Services,"Soreness, pain, hurt-nonspecified injury",6
+2017,Educational Services,"Traumatic injuries and disorders, unspecified",2
+2017,Finance & Insurance,Amputations,4
+2017,Finance & Insurance,"Cuts, lacerations",2
+2017,Finance & Insurance,Fractures,15
+2017,Finance & Insurance,Internal injuries to organs and blood vessels of the trunk,1
+2017,Finance & Insurance,"Intracranial injuries, unspecified",3
+2017,Finance & Insurance,Other,7
+2017,Finance & Insurance,"Puncture wounds, except gunshot wounds",1
+2017,Finance & Insurance,"Soreness, pain, hurt-nonspecified injury",5
+2017,Finance & Insurance,"Traumatic injuries and disorders, unspecified",1
+2017,Health Care & Social Assistance,Amputations,35
+2017,Health Care & Social Assistance,Crushing injuries,2
+2017,Health Care & Social Assistance,"Cuts, lacerations",6
+2017,Health Care & Social Assistance,Fractures,218
+2017,Health Care & Social Assistance,"Heat (thermal) burns, unspecified",6
+2017,Health Care & Social Assistance,Internal injuries to organs and blood vessels of the trunk,6
+2017,Health Care & Social Assistance,"Intracranial injuries, unspecified",19
+2017,Health Care & Social Assistance,Other,127
+2017,Health Care & Social Assistance,"Puncture wounds, except gunshot wounds",8
+2017,Health Care & Social Assistance,"Soreness, pain, hurt-nonspecified injury",45
+2017,Health Care & Social Assistance,"Traumatic injuries and disorders, unspecified",6
+2017,Information,Amputations,12
+2017,Information,Crushing injuries,1
+2017,Information,"Cuts, lacerations",2
+2017,Information,Fractures,39
+2017,Information,Internal injuries to organs and blood vessels of the trunk,4
+2017,Information,"Intracranial injuries, unspecified",4
+2017,Information,Other,22
+2017,Information,"Puncture wounds, except gunshot wounds",1
+2017,Information,"Soreness, pain, hurt-nonspecified injury",16
+2017,Information,"Traumatic injuries and disorders, unspecified",2
+2017,Management of Companies,Other,1
+2017,Management of Companies,"Puncture wounds, except gunshot wounds",1
+2017,Management of Companies,"Soreness, pain, hurt-nonspecified injury",1
+2017,Manufacturing,Amputations,1569
+2017,Manufacturing,Crushing injuries,99
+2017,Manufacturing,"Cuts, lacerations",172
+2017,Manufacturing,Fractures,752
+2017,Manufacturing,"Heat (thermal) burns, unspecified",78
+2017,Manufacturing,Internal injuries to organs and blood vessels of the trunk,40
+2017,Manufacturing,"Intracranial injuries, unspecified",35
+2017,Manufacturing,Other,453
+2017,Manufacturing,"Puncture wounds, except gunshot wounds",51
+2017,Manufacturing,"Soreness, pain, hurt-nonspecified injury",159
+2017,Manufacturing,"Traumatic injuries and disorders, unspecified",24
+2017,"Mining, Oil & Gas",Amputations,110
+2017,"Mining, Oil & Gas",Crushing injuries,21
+2017,"Mining, Oil & Gas","Cuts, lacerations",16
+2017,"Mining, Oil & Gas",Fractures,107
+2017,"Mining, Oil & Gas","Heat (thermal) burns, unspecified",15
+2017,"Mining, Oil & Gas",Internal injuries to organs and blood vessels of the trunk,8
+2017,"Mining, Oil & Gas","Intracranial injuries, unspecified",6
+2017,"Mining, Oil & Gas",Other,66
+2017,"Mining, Oil & Gas","Puncture wounds, except gunshot wounds",8
+2017,"Mining, Oil & Gas","Soreness, pain, hurt-nonspecified injury",16
+2017,"Mining, Oil & Gas","Traumatic injuries and disorders, unspecified",5
+2017,Other Services,Amputations,44
+2017,Other Services,Crushing injuries,7
+2017,Other Services,"Cuts, lacerations",8
+2017,Other Services,Fractures,54
+2017,Other Services,"Heat (thermal) burns, unspecified",3
+2017,Other Services,Internal injuries to organs and blood vessels of the trunk,4
+2017,Other Services,"Intracranial injuries, unspecified",4
+2017,Other Services,Other,38
+2017,Other Services,"Puncture wounds, except gunshot wounds",4
+2017,Other Services,"Soreness, pain, hurt-nonspecified injury",20
+2017,Other Services,"Traumatic injuries and disorders, unspecified",2
+2017,Professional & Technical Services,Amputations,22
+2017,Professional & Technical Services,Crushing injuries,1
+2017,Professional & Technical Services,"Cuts, lacerations",11
+2017,Professional & Technical Services,Fractures,69
+2017,Professional & Technical Services,"Heat (thermal) burns, unspecified",2
+2017,Professional & Technical Services,Internal injuries to organs and blood vessels of the trunk,4
+2017,Professional & Technical Services,"Intracranial injuries, unspecified",4
+2017,Professional & Technical Services,Other,36
+2017,Professional & Technical Services,"Puncture wounds, except gunshot wounds",6
+2017,Professional & Technical Services,"Soreness, pain, hurt-nonspecified injury",13
+2017,Professional & Technical Services,"Traumatic injuries and disorders, unspecified",4
+2017,Public Administration,Amputations,36
+2017,Public Administration,Crushing injuries,3
+2017,Public Administration,"Cuts, lacerations",7
+2017,Public Administration,Fractures,30
+2017,Public Administration,"Heat (thermal) burns, unspecified",2
+2017,Public Administration,Internal injuries to organs and blood vessels of the trunk,1
+2017,Public Administration,"Intracranial injuries, unspecified",5
+2017,Public Administration,Other,48
+2017,Public Administration,"Puncture wounds, except gunshot wounds",1
+2017,Public Administration,"Soreness, pain, hurt-nonspecified injury",7
+2017,Public Administration,"Traumatic injuries and disorders, unspecified",3
+2017,Real Estate & Leasing,Amputations,17
+2017,Real Estate & Leasing,Crushing injuries,6
+2017,Real Estate & Leasing,"Cuts, lacerations",10
+2017,Real Estate & Leasing,Fractures,29
+2017,Real Estate & Leasing,"Heat (thermal) burns, unspecified",2
+2017,Real Estate & Leasing,Internal injuries to organs and blood vessels of the trunk,3
+2017,Real Estate & Leasing,"Intracranial injuries, unspecified",6
+2017,Real Estate & Leasing,Other,23
+2017,Real Estate & Leasing,"Soreness, pain, hurt-nonspecified injury",5
+2017,Real Estate & Leasing,"Traumatic injuries and disorders, unspecified",5
+2017,Retail Trade,Amputations,132
+2017,Retail Trade,Crushing injuries,9
+2017,Retail Trade,"Cuts, lacerations",32
+2017,Retail Trade,Fractures,304
+2017,Retail Trade,"Heat (thermal) burns, unspecified",11
+2017,Retail Trade,Internal injuries to organs and blood vessels of the trunk,4
+2017,Retail Trade,"Intracranial injuries, unspecified",30
+2017,Retail Trade,Other,104
+2017,Retail Trade,"Puncture wounds, except gunshot wounds",8
+2017,Retail Trade,"Soreness, pain, hurt-nonspecified injury",75
+2017,Retail Trade,"Traumatic injuries and disorders, unspecified",11
+2017,Transportation & Warehousing,Amputations,131
+2017,Transportation & Warehousing,Crushing injuries,29
+2017,Transportation & Warehousing,"Cuts, lacerations",43
+2017,Transportation & Warehousing,Fractures,370
+2017,Transportation & Warehousing,"Heat (thermal) burns, unspecified",5
+2017,Transportation & Warehousing,Internal injuries to organs and blood vessels of the trunk,15
+2017,Transportation & Warehousing,"Intracranial injuries, unspecified",34
+2017,Transportation & Warehousing,Other,160
+2017,Transportation & Warehousing,"Puncture wounds, except gunshot wounds",7
+2017,Transportation & Warehousing,"Soreness, pain, hurt-nonspecified injury",92
+2017,Transportation & Warehousing,"Traumatic injuries and disorders, unspecified",16
+2017,Unknown,Fractures,2
+2017,Unknown,Other,1
+2017,Unknown,"Puncture wounds, except gunshot wounds",1
+2017,Utilities,Amputations,26
+2017,Utilities,Crushing injuries,1
+2017,Utilities,"Cuts, lacerations",6
+2017,Utilities,Fractures,41
+2017,Utilities,"Heat (thermal) burns, unspecified",2
+2017,Utilities,Internal injuries to organs and blood vessels of the trunk,1
+2017,Utilities,Other,51
+2017,Utilities,"Puncture wounds, except gunshot wounds",2
+2017,Utilities,"Soreness, pain, hurt-nonspecified injury",6
+2017,Utilities,"Traumatic injuries and disorders, unspecified",2
+2017,Wholesale Trade,Amputations,170
+2017,Wholesale Trade,Crushing injuries,20
+2017,Wholesale Trade,"Cuts, lacerations",24
+2017,Wholesale Trade,Fractures,180
+2017,Wholesale Trade,"Heat (thermal) burns, unspecified",9
+2017,Wholesale Trade,Internal injuries to organs and blood vessels of the trunk,11
+2017,Wholesale Trade,"Intracranial injuries, unspecified",13
+2017,Wholesale Trade,Other,99
+2017,Wholesale Trade,"Puncture wounds, except gunshot wounds",4
+2017,Wholesale Trade,"Soreness, pain, hurt-nonspecified injury",37
+2017,Wholesale Trade,"Traumatic injuries and disorders, unspecified",6
+2018,Accommodation & Food Services,Amputations,40
+2018,Accommodation & Food Services,Crushing injuries,4
+2018,Accommodation & Food Services,"Cuts, lacerations",17
+2018,Accommodation & Food Services,Fractures,60
+2018,Accommodation & Food Services,"Heat (thermal) burns, unspecified",19
+2018,Accommodation & Food Services,Internal injuries to organs and blood vessels of the trunk,4
+2018,Accommodation & Food Services,"Intracranial injuries, unspecified",5
+2018,Accommodation & Food Services,Other,42
+2018,Accommodation & Food Services,"Puncture wounds, except gunshot wounds",1
+2018,Accommodation & Food Services,"Soreness, pain, hurt-nonspecified injury",16
+2018,Accommodation & Food Services,"Traumatic injuries and disorders, unspecified",1
+2018,"Admin, Support & Waste Services",Amputations,133
+2018,"Admin, Support & Waste Services",Crushing injuries,15
+2018,"Admin, Support & Waste Services","Cuts, lacerations",43
+2018,"Admin, Support & Waste Services",Fractures,215
+2018,"Admin, Support & Waste Services","Heat (thermal) burns, unspecified",10
+2018,"Admin, Support & Waste Services",Internal injuries to organs and blood vessels of the trunk,13
+2018,"Admin, Support & Waste Services","Intracranial injuries, unspecified",17
+2018,"Admin, Support & Waste Services",Other,146
+2018,"Admin, Support & Waste Services","Puncture wounds, except gunshot wounds",5
+2018,"Admin, Support & Waste Services","Soreness, pain, hurt-nonspecified injury",42
+2018,"Admin, Support & Waste Services","Traumatic injuries and disorders, unspecified",10
+2018,"Agriculture, Forestry & Fishing",Amputations,50
+2018,"Agriculture, Forestry & Fishing",Crushing injuries,5
+2018,"Agriculture, Forestry & Fishing","Cuts, lacerations",6
+2018,"Agriculture, Forestry & Fishing",Fractures,69
+2018,"Agriculture, Forestry & Fishing","Heat (thermal) burns, unspecified",2
+2018,"Agriculture, Forestry & Fishing",Internal injuries to organs and blood vessels of the trunk,4
+2018,"Agriculture, Forestry & Fishing","Intracranial injuries, unspecified",5
+2018,"Agriculture, Forestry & Fishing",Other,41
+2018,"Agriculture, Forestry & Fishing","Puncture wounds, except gunshot wounds",2
+2018,"Agriculture, Forestry & Fishing","Soreness, pain, hurt-nonspecified injury",20
+2018,"Agriculture, Forestry & Fishing","Traumatic injuries and disorders, unspecified",3
+2018,"Arts, Entertainment & Recreation",Amputations,30
+2018,"Arts, Entertainment & Recreation",Crushing injuries,4
+2018,"Arts, Entertainment & Recreation","Cuts, lacerations",12
+2018,"Arts, Entertainment & Recreation",Fractures,78
+2018,"Arts, Entertainment & Recreation","Heat (thermal) burns, unspecified",1
+2018,"Arts, Entertainment & Recreation",Internal injuries to organs and blood vessels of the trunk,4
+2018,"Arts, Entertainment & Recreation","Intracranial injuries, unspecified",4
+2018,"Arts, Entertainment & Recreation",Other,30
+2018,"Arts, Entertainment & Recreation","Puncture wounds, except gunshot wounds",4
+2018,"Arts, Entertainment & Recreation","Soreness, pain, hurt-nonspecified injury",9
+2018,"Arts, Entertainment & Recreation","Traumatic injuries and disorders, unspecified",4
+2018,Construction,Amputations,299
+2018,Construction,Crushing injuries,26
+2018,Construction,"Cuts, lacerations",149
+2018,Construction,Fractures,796
+2018,Construction,"Heat (thermal) burns, unspecified",30
+2018,Construction,Internal injuries to organs and blood vessels of the trunk,52
+2018,Construction,"Intracranial injuries, unspecified",26
+2018,Construction,Other,406
+2018,Construction,"Puncture wounds, except gunshot wounds",30
+2018,Construction,"Soreness, pain, hurt-nonspecified injury",109
+2018,Construction,"Traumatic injuries and disorders, unspecified",46
+2018,Educational Services,Amputations,10
+2018,Educational Services,"Cuts, lacerations",1
+2018,Educational Services,Fractures,24
+2018,Educational Services,Internal injuries to organs and blood vessels of the trunk,5
+2018,Educational Services,"Intracranial injuries, unspecified",1
+2018,Educational Services,Other,13
+2018,Educational Services,"Soreness, pain, hurt-nonspecified injury",4
+2018,Educational Services,"Traumatic injuries and disorders, unspecified",2
+2018,Finance & Insurance,Amputations,2
+2018,Finance & Insurance,Fractures,21
+2018,Finance & Insurance,Internal injuries to organs and blood vessels of the trunk,1
+2018,Finance & Insurance,"Intracranial injuries, unspecified",2
+2018,Finance & Insurance,Other,15
+2018,Finance & Insurance,"Puncture wounds, except gunshot wounds",2
+2018,Finance & Insurance,"Soreness, pain, hurt-nonspecified injury",2
+2018,Health Care & Social Assistance,Amputations,35
+2018,Health Care & Social Assistance,"Cuts, lacerations",11
+2018,Health Care & Social Assistance,Fractures,248
+2018,Health Care & Social Assistance,"Heat (thermal) burns, unspecified",5
+2018,Health Care & Social Assistance,Internal injuries to organs and blood vessels of the trunk,8
+2018,Health Care & Social Assistance,"Intracranial injuries, unspecified",17
+2018,Health Care & Social Assistance,Other,157
+2018,Health Care & Social Assistance,"Puncture wounds, except gunshot wounds",4
+2018,Health Care & Social Assistance,"Soreness, pain, hurt-nonspecified injury",46
+2018,Health Care & Social Assistance,"Traumatic injuries and disorders, unspecified",8
+2018,Information,Amputations,20
+2018,Information,"Cuts, lacerations",3
+2018,Information,Fractures,51
+2018,Information,"Intracranial injuries, unspecified",1
+2018,Information,Other,31
+2018,Information,"Soreness, pain, hurt-nonspecified injury",13
+2018,Information,"Traumatic injuries and disorders, unspecified",3
+2018,Management of Companies,Fractures,1
+2018,Management of Companies,Other,1
+2018,Management of Companies,"Soreness, pain, hurt-nonspecified injury",1
+2018,Manufacturing,Amputations,1576
+2018,Manufacturing,Crushing injuries,87
+2018,Manufacturing,"Cuts, lacerations",187
+2018,Manufacturing,Fractures,856
+2018,Manufacturing,"Heat (thermal) burns, unspecified",83
+2018,Manufacturing,Internal injuries to organs and blood vessels of the trunk,37
+2018,Manufacturing,"Intracranial injuries, unspecified",29
+2018,Manufacturing,Other,524
+2018,Manufacturing,"Puncture wounds, except gunshot wounds",47
+2018,Manufacturing,"Soreness, pain, hurt-nonspecified injury",171
+2018,Manufacturing,"Traumatic injuries and disorders, unspecified",17
+2018,"Mining, Oil & Gas",Amputations,122
+2018,"Mining, Oil & Gas",Crushing injuries,7
+2018,"Mining, Oil & Gas","Cuts, lacerations",10
+2018,"Mining, Oil & Gas",Fractures,129
+2018,"Mining, Oil & Gas","Heat (thermal) burns, unspecified",17
+2018,"Mining, Oil & Gas",Internal injuries to organs and blood vessels of the trunk,14
+2018,"Mining, Oil & Gas","Intracranial injuries, unspecified",2
+2018,"Mining, Oil & Gas",Other,72
+2018,"Mining, Oil & Gas","Puncture wounds, except gunshot wounds",5
+2018,"Mining, Oil & Gas","Soreness, pain, hurt-nonspecified injury",23
+2018,"Mining, Oil & Gas","Traumatic injuries and disorders, unspecified",2
+2018,Other Services,Amputations,50
+2018,Other Services,Crushing injuries,5
+2018,Other Services,"Cuts, lacerations",10
+2018,Other Services,Fractures,61
+2018,Other Services,"Heat (thermal) burns, unspecified",6
+2018,Other Services,Internal injuries to organs and blood vessels of the trunk,7
+2018,Other Services,"Intracranial injuries, unspecified",4
+2018,Other Services,Other,47
+2018,Other Services,"Puncture wounds, except gunshot wounds",2
+2018,Other Services,"Soreness, pain, hurt-nonspecified injury",13
+2018,Other Services,"Traumatic injuries and disorders, unspecified",7
+2018,Professional & Technical Services,Amputations,28
+2018,Professional & Technical Services,"Cuts, lacerations",11
+2018,Professional & Technical Services,Fractures,53
+2018,Professional & Technical Services,"Heat (thermal) burns, unspecified",2
+2018,Professional & Technical Services,Internal injuries to organs and blood vessels of the trunk,6
+2018,Professional & Technical Services,"Intracranial injuries, unspecified",4
+2018,Professional & Technical Services,Other,43
+2018,Professional & Technical Services,"Puncture wounds, except gunshot wounds",5
+2018,Professional & Technical Services,"Soreness, pain, hurt-nonspecified injury",5
+2018,Professional & Technical Services,"Traumatic injuries and disorders, unspecified",3
+2018,Public Administration,Amputations,24
+2018,Public Administration,Crushing injuries,1
+2018,Public Administration,"Cuts, lacerations",3
+2018,Public Administration,Fractures,36
+2018,Public Administration,"Heat (thermal) burns, unspecified",1
+2018,Public Administration,Internal injuries to organs and blood vessels of the trunk,4
+2018,Public Administration,"Intracranial injuries, unspecified",1
+2018,Public Administration,Other,43
+2018,Public Administration,"Puncture wounds, except gunshot wounds",2
+2018,Public Administration,"Soreness, pain, hurt-nonspecified injury",11
+2018,Public Administration,"Traumatic injuries and disorders, unspecified",3
+2018,Real Estate & Leasing,Amputations,19
+2018,Real Estate & Leasing,Crushing injuries,1
+2018,Real Estate & Leasing,"Cuts, lacerations",5
+2018,Real Estate & Leasing,Fractures,57
+2018,Real Estate & Leasing,"Heat (thermal) burns, unspecified",1
+2018,Real Estate & Leasing,Internal injuries to organs and blood vessels of the trunk,4
+2018,Real Estate & Leasing,"Intracranial injuries, unspecified",3
+2018,Real Estate & Leasing,Other,31
+2018,Real Estate & Leasing,"Puncture wounds, except gunshot wounds",2
+2018,Real Estate & Leasing,"Soreness, pain, hurt-nonspecified injury",5
+2018,Real Estate & Leasing,"Traumatic injuries and disorders, unspecified",6
+2018,Retail Trade,Amputations,148
+2018,Retail Trade,Crushing injuries,11
+2018,Retail Trade,"Cuts, lacerations",37
+2018,Retail Trade,Fractures,350
+2018,Retail Trade,"Heat (thermal) burns, unspecified",6
+2018,Retail Trade,Internal injuries to organs and blood vessels of the trunk,16
+2018,Retail Trade,"Intracranial injuries, unspecified",21
+2018,Retail Trade,Other,130
+2018,Retail Trade,"Puncture wounds, except gunshot wounds",15
+2018,Retail Trade,"Soreness, pain, hurt-nonspecified injury",75
+2018,Retail Trade,"Traumatic injuries and disorders, unspecified",15
+2018,Transportation & Warehousing,Amputations,124
+2018,Transportation & Warehousing,Crushing injuries,22
+2018,Transportation & Warehousing,"Cuts, lacerations",39
+2018,Transportation & Warehousing,Fractures,420
+2018,Transportation & Warehousing,"Heat (thermal) burns, unspecified",5
+2018,Transportation & Warehousing,Internal injuries to organs and blood vessels of the trunk,17
+2018,Transportation & Warehousing,"Intracranial injuries, unspecified",18
+2018,Transportation & Warehousing,Other,199
+2018,Transportation & Warehousing,"Puncture wounds, except gunshot wounds",7
+2018,Transportation & Warehousing,"Soreness, pain, hurt-nonspecified injury",78
+2018,Transportation & Warehousing,"Traumatic injuries and disorders, unspecified",20
+2018,Unknown,Amputations,2
+2018,Unknown,"Cuts, lacerations",2
+2018,Unknown,Fractures,1
+2018,Unknown,Internal injuries to organs and blood vessels of the trunk,1
+2018,Unknown,Other,2
+2018,Unknown,"Traumatic injuries and disorders, unspecified",1
+2018,Utilities,Amputations,14
+2018,Utilities,Crushing injuries,2
+2018,Utilities,Fractures,41
+2018,Utilities,"Heat (thermal) burns, unspecified",1
+2018,Utilities,Internal injuries to organs and blood vessels of the trunk,7
+2018,Utilities,"Intracranial injuries, unspecified",2
+2018,Utilities,Other,48
+2018,Utilities,"Soreness, pain, hurt-nonspecified injury",6
+2018,Utilities,"Traumatic injuries and disorders, unspecified",2
+2018,Wholesale Trade,Amputations,160
+2018,Wholesale Trade,Crushing injuries,16
+2018,Wholesale Trade,"Cuts, lacerations",33
+2018,Wholesale Trade,Fractures,235
+2018,Wholesale Trade,"Heat (thermal) burns, unspecified",7
+2018,Wholesale Trade,Internal injuries to organs and blood vessels of the trunk,12
+2018,Wholesale Trade,"Intracranial injuries, unspecified",14
+2018,Wholesale Trade,Other,91
+2018,Wholesale Trade,"Puncture wounds, except gunshot wounds",3
+2018,Wholesale Trade,"Soreness, pain, hurt-nonspecified injury",38
+2018,Wholesale Trade,"Traumatic injuries and disorders, unspecified",7
+2019,Accommodation & Food Services,Amputations,33
+2019,Accommodation & Food Services,Crushing injuries,4
+2019,Accommodation & Food Services,"Cuts, lacerations",10
+2019,Accommodation & Food Services,Fractures,62
+2019,Accommodation & Food Services,"Heat (thermal) burns, unspecified",16
+2019,Accommodation & Food Services,Internal injuries to organs and blood vessels of the trunk,3
+2019,Accommodation & Food Services,"Intracranial injuries, unspecified",2
+2019,Accommodation & Food Services,Other,49
+2019,Accommodation & Food Services,"Puncture wounds, except gunshot wounds",4
+2019,Accommodation & Food Services,"Soreness, pain, hurt-nonspecified injury",19
+2019,Accommodation & Food Services,"Traumatic injuries and disorders, unspecified",1
+2019,"Admin, Support & Waste Services",Amputations,109
+2019,"Admin, Support & Waste Services",Crushing injuries,10
+2019,"Admin, Support & Waste Services","Cuts, lacerations",44
+2019,"Admin, Support & Waste Services",Fractures,217
+2019,"Admin, Support & Waste Services","Heat (thermal) burns, unspecified",14
+2019,"Admin, Support & Waste Services",Internal injuries to organs and blood vessels of the trunk,14
+2019,"Admin, Support & Waste Services","Intracranial injuries, unspecified",23
+2019,"Admin, Support & Waste Services",Other,134
+2019,"Admin, Support & Waste Services","Puncture wounds, except gunshot wounds",9
+2019,"Admin, Support & Waste Services","Soreness, pain, hurt-nonspecified injury",46
+2019,"Admin, Support & Waste Services","Traumatic injuries and disorders, unspecified",10
+2019,"Agriculture, Forestry & Fishing",Amputations,59
+2019,"Agriculture, Forestry & Fishing",Crushing injuries,5
+2019,"Agriculture, Forestry & Fishing","Cuts, lacerations",7
+2019,"Agriculture, Forestry & Fishing",Fractures,55
+2019,"Agriculture, Forestry & Fishing","Heat (thermal) burns, unspecified",2
+2019,"Agriculture, Forestry & Fishing",Internal injuries to organs and blood vessels of the trunk,12
+2019,"Agriculture, Forestry & Fishing","Intracranial injuries, unspecified",2
+2019,"Agriculture, Forestry & Fishing",Other,47
+2019,"Agriculture, Forestry & Fishing","Puncture wounds, except gunshot wounds",3
+2019,"Agriculture, Forestry & Fishing","Soreness, pain, hurt-nonspecified injury",16
+2019,"Agriculture, Forestry & Fishing","Traumatic injuries and disorders, unspecified",3
+2019,"Arts, Entertainment & Recreation",Amputations,21
+2019,"Arts, Entertainment & Recreation","Cuts, lacerations",7
+2019,"Arts, Entertainment & Recreation",Fractures,52
+2019,"Arts, Entertainment & Recreation","Heat (thermal) burns, unspecified",1
+2019,"Arts, Entertainment & Recreation",Internal injuries to organs and blood vessels of the trunk,5
+2019,"Arts, Entertainment & Recreation","Intracranial injuries, unspecified",4
+2019,"Arts, Entertainment & Recreation",Other,29
+2019,"Arts, Entertainment & Recreation","Puncture wounds, except gunshot wounds",3
+2019,"Arts, Entertainment & Recreation","Soreness, pain, hurt-nonspecified injury",15
+2019,"Arts, Entertainment & Recreation","Traumatic injuries and disorders, unspecified",4
+2019,Construction,Amputations,310
+2019,Construction,Crushing injuries,34
+2019,Construction,"Cuts, lacerations",144
+2019,Construction,Fractures,743
+2019,Construction,"Heat (thermal) burns, unspecified",44
+2019,Construction,Internal injuries to organs and blood vessels of the trunk,53
+2019,Construction,"Intracranial injuries, unspecified",49
+2019,Construction,Other,388
+2019,Construction,"Puncture wounds, except gunshot wounds",36
+2019,Construction,"Soreness, pain, hurt-nonspecified injury",130
+2019,Construction,"Traumatic injuries and disorders, unspecified",25
+2019,Educational Services,Amputations,6
+2019,Educational Services,"Cuts, lacerations",2
+2019,Educational Services,Fractures,21
+2019,Educational Services,Internal injuries to organs and blood vessels of the trunk,1
+2019,Educational Services,"Intracranial injuries, unspecified",3
+2019,Educational Services,Other,18
+2019,Educational Services,"Puncture wounds, except gunshot wounds",3
+2019,Educational Services,"Soreness, pain, hurt-nonspecified injury",5
+2019,Educational Services,"Traumatic injuries and disorders, unspecified",3
+2019,Finance & Insurance,Amputations,4
+2019,Finance & Insurance,"Cuts, lacerations",2
+2019,Finance & Insurance,Fractures,22
+2019,Finance & Insurance,"Heat (thermal) burns, unspecified",2
+2019,Finance & Insurance,"Intracranial injuries, unspecified",2
+2019,Finance & Insurance,Other,5
+2019,Finance & Insurance,"Soreness, pain, hurt-nonspecified injury",3
+2019,Health Care & Social Assistance,Amputations,42
+2019,Health Care & Social Assistance,Crushing injuries,1
+2019,Health Care & Social Assistance,"Cuts, lacerations",5
+2019,Health Care & Social Assistance,Fractures,294
+2019,Health Care & Social Assistance,"Heat (thermal) burns, unspecified",4
+2019,Health Care & Social Assistance,Internal injuries to organs and blood vessels of the trunk,3
+2019,Health Care & Social Assistance,"Intracranial injuries, unspecified",13
+2019,Health Care & Social Assistance,Other,126
+2019,Health Care & Social Assistance,"Puncture wounds, except gunshot wounds",2
+2019,Health Care & Social Assistance,"Soreness, pain, hurt-nonspecified injury",45
+2019,Health Care & Social Assistance,"Traumatic injuries and disorders, unspecified",9
+2019,Information,Amputations,11
+2019,Information,Crushing injuries,1
+2019,Information,"Cuts, lacerations",3
+2019,Information,Fractures,46
+2019,Information,Internal injuries to organs and blood vessels of the trunk,2
+2019,Information,"Intracranial injuries, unspecified",3
+2019,Information,Other,18
+2019,Information,"Puncture wounds, except gunshot wounds",1
+2019,Information,"Soreness, pain, hurt-nonspecified injury",8
+2019,Information,"Traumatic injuries and disorders, unspecified",6
+2019,Management of Companies,Amputations,2
+2019,Management of Companies,Fractures,1
+2019,Management of Companies,Other,1
+2019,Manufacturing,Amputations,1540
+2019,Manufacturing,Crushing injuries,72
+2019,Manufacturing,"Cuts, lacerations",168
+2019,Manufacturing,Fractures,780
+2019,Manufacturing,"Heat (thermal) burns, unspecified",104
+2019,Manufacturing,Internal injuries to organs and blood vessels of the trunk,35
+2019,Manufacturing,"Intracranial injuries, unspecified",40
+2019,Manufacturing,Other,505
+2019,Manufacturing,"Puncture wounds, except gunshot wounds",50
+2019,Manufacturing,"Soreness, pain, hurt-nonspecified injury",168
+2019,Manufacturing,"Traumatic injuries and disorders, unspecified",21
+2019,"Mining, Oil & Gas",Amputations,112
+2019,"Mining, Oil & Gas",Crushing injuries,12
+2019,"Mining, Oil & Gas","Cuts, lacerations",11
+2019,"Mining, Oil & Gas",Fractures,107
+2019,"Mining, Oil & Gas","Heat (thermal) burns, unspecified",19
+2019,"Mining, Oil & Gas",Internal injuries to organs and blood vessels of the trunk,8
+2019,"Mining, Oil & Gas","Intracranial injuries, unspecified",5
+2019,"Mining, Oil & Gas",Other,67
+2019,"Mining, Oil & Gas","Puncture wounds, except gunshot wounds",3
+2019,"Mining, Oil & Gas","Soreness, pain, hurt-nonspecified injury",20
+2019,"Mining, Oil & Gas","Traumatic injuries and disorders, unspecified",3
+2019,Other Services,Amputations,53
+2019,Other Services,Crushing injuries,4
+2019,Other Services,"Cuts, lacerations",10
+2019,Other Services,Fractures,70
+2019,Other Services,"Heat (thermal) burns, unspecified",4
+2019,Other Services,Internal injuries to organs and blood vessels of the trunk,8
+2019,Other Services,"Intracranial injuries, unspecified",2
+2019,Other Services,Other,35
+2019,Other Services,"Puncture wounds, except gunshot wounds",8
+2019,Other Services,"Soreness, pain, hurt-nonspecified injury",19
+2019,Other Services,"Traumatic injuries and disorders, unspecified",6
+2019,Professional & Technical Services,Amputations,34
+2019,Professional & Technical Services,Crushing injuries,2
+2019,Professional & Technical Services,"Cuts, lacerations",8
+2019,Professional & Technical Services,Fractures,77
+2019,Professional & Technical Services,"Heat (thermal) burns, unspecified",6
+2019,Professional & Technical Services,Internal injuries to organs and blood vessels of the trunk,1
+2019,Professional & Technical Services,"Intracranial injuries, unspecified",4
+2019,Professional & Technical Services,Other,30
+2019,Professional & Technical Services,"Puncture wounds, except gunshot wounds",6
+2019,Professional & Technical Services,"Soreness, pain, hurt-nonspecified injury",20
+2019,Professional & Technical Services,"Traumatic injuries and disorders, unspecified",2
+2019,Public Administration,Amputations,23
+2019,Public Administration,Crushing injuries,3
+2019,Public Administration,"Cuts, lacerations",2
+2019,Public Administration,Fractures,56
+2019,Public Administration,"Heat (thermal) burns, unspecified",2
+2019,Public Administration,Internal injuries to organs and blood vessels of the trunk,6
+2019,Public Administration,"Intracranial injuries, unspecified",1
+2019,Public Administration,Other,41
+2019,Public Administration,"Puncture wounds, except gunshot wounds",3
+2019,Public Administration,"Soreness, pain, hurt-nonspecified injury",5
+2019,Public Administration,"Traumatic injuries and disorders, unspecified",1
+2019,Real Estate & Leasing,Amputations,25
+2019,Real Estate & Leasing,Crushing injuries,3
+2019,Real Estate & Leasing,"Cuts, lacerations",4
+2019,Real Estate & Leasing,Fractures,44
+2019,Real Estate & Leasing,"Heat (thermal) burns, unspecified",1
+2019,Real Estate & Leasing,Internal injuries to organs and blood vessels of the trunk,4
+2019,Real Estate & Leasing,"Intracranial injuries, unspecified",3
+2019,Real Estate & Leasing,Other,24
+2019,Real Estate & Leasing,"Puncture wounds, except gunshot wounds",1
+2019,Real Estate & Leasing,"Soreness, pain, hurt-nonspecified injury",9
+2019,Real Estate & Leasing,"Traumatic injuries and disorders, unspecified",2
+2019,Retail Trade,Amputations,151
+2019,Retail Trade,Crushing injuries,13
+2019,Retail Trade,"Cuts, lacerations",39
+2019,Retail Trade,Fractures,379
+2019,Retail Trade,"Heat (thermal) burns, unspecified",6
+2019,Retail Trade,Internal injuries to organs and blood vessels of the trunk,9
+2019,Retail Trade,"Intracranial injuries, unspecified",30
+2019,Retail Trade,Other,143
+2019,Retail Trade,"Puncture wounds, except gunshot wounds",16
+2019,Retail Trade,"Soreness, pain, hurt-nonspecified injury",88
+2019,Retail Trade,"Traumatic injuries and disorders, unspecified",13
+2019,Transportation & Warehousing,Amputations,148
+2019,Transportation & Warehousing,Crushing injuries,26
+2019,Transportation & Warehousing,"Cuts, lacerations",29
+2019,Transportation & Warehousing,Fractures,389
+2019,Transportation & Warehousing,"Heat (thermal) burns, unspecified",9
+2019,Transportation & Warehousing,Internal injuries to organs and blood vessels of the trunk,25
+2019,Transportation & Warehousing,"Intracranial injuries, unspecified",24
+2019,Transportation & Warehousing,Other,199
+2019,Transportation & Warehousing,"Puncture wounds, except gunshot wounds",7
+2019,Transportation & Warehousing,"Soreness, pain, hurt-nonspecified injury",91
+2019,Transportation & Warehousing,"Traumatic injuries and disorders, unspecified",18
+2019,Unknown,Amputations,2
+2019,Unknown,Fractures,2
+2019,Utilities,Amputations,22
+2019,Utilities,Crushing injuries,3
+2019,Utilities,"Cuts, lacerations",2
+2019,Utilities,Fractures,47
+2019,Utilities,"Heat (thermal) burns, unspecified",4
+2019,Utilities,Internal injuries to organs and blood vessels of the trunk,3
+2019,Utilities,"Intracranial injuries, unspecified",3
+2019,Utilities,Other,55
+2019,Utilities,"Puncture wounds, except gunshot wounds",1
+2019,Utilities,"Soreness, pain, hurt-nonspecified injury",9
+2019,Wholesale Trade,Amputations,154
+2019,Wholesale Trade,Crushing injuries,11
+2019,Wholesale Trade,"Cuts, lacerations",32
+2019,Wholesale Trade,Fractures,212
+2019,Wholesale Trade,"Heat (thermal) burns, unspecified",9
+2019,Wholesale Trade,Internal injuries to organs and blood vessels of the trunk,15
+2019,Wholesale Trade,"Intracranial injuries, unspecified",21
+2019,Wholesale Trade,Other,136
+2019,Wholesale Trade,"Puncture wounds, except gunshot wounds",9
+2019,Wholesale Trade,"Soreness, pain, hurt-nonspecified injury",48
+2019,Wholesale Trade,"Traumatic injuries and disorders, unspecified",7
+2020,Accommodation & Food Services,Amputations,33
+2020,Accommodation & Food Services,Crushing injuries,3
+2020,Accommodation & Food Services,"Cuts, lacerations",7
+2020,Accommodation & Food Services,Fractures,42
+2020,Accommodation & Food Services,"Heat (thermal) burns, unspecified",23
+2020,Accommodation & Food Services,Internal injuries to organs and blood vessels of the trunk,5
+2020,Accommodation & Food Services,"Intracranial injuries, unspecified",7
+2020,Accommodation & Food Services,Other,38
+2020,Accommodation & Food Services,"Soreness, pain, hurt-nonspecified injury",13
+2020,"Admin, Support & Waste Services",Amputations,92
+2020,"Admin, Support & Waste Services",Crushing injuries,13
+2020,"Admin, Support & Waste Services","Cuts, lacerations",40
+2020,"Admin, Support & Waste Services",Fractures,183
+2020,"Admin, Support & Waste Services","Heat (thermal) burns, unspecified",7
+2020,"Admin, Support & Waste Services",Internal injuries to organs and blood vessels of the trunk,6
+2020,"Admin, Support & Waste Services","Intracranial injuries, unspecified",8
+2020,"Admin, Support & Waste Services",Other,111
+2020,"Admin, Support & Waste Services","Puncture wounds, except gunshot wounds",7
+2020,"Admin, Support & Waste Services","Soreness, pain, hurt-nonspecified injury",40
+2020,"Admin, Support & Waste Services","Traumatic injuries and disorders, unspecified",7
+2020,"Agriculture, Forestry & Fishing",Amputations,53
+2020,"Agriculture, Forestry & Fishing",Crushing injuries,2
+2020,"Agriculture, Forestry & Fishing","Cuts, lacerations",19
+2020,"Agriculture, Forestry & Fishing",Fractures,52
+2020,"Agriculture, Forestry & Fishing","Heat (thermal) burns, unspecified",4
+2020,"Agriculture, Forestry & Fishing",Internal injuries to organs and blood vessels of the trunk,2
+2020,"Agriculture, Forestry & Fishing","Intracranial injuries, unspecified",3
+2020,"Agriculture, Forestry & Fishing",Other,25
+2020,"Agriculture, Forestry & Fishing","Puncture wounds, except gunshot wounds",1
+2020,"Agriculture, Forestry & Fishing","Soreness, pain, hurt-nonspecified injury",9
+2020,"Agriculture, Forestry & Fishing","Traumatic injuries and disorders, unspecified",1
+2020,"Arts, Entertainment & Recreation",Amputations,9
+2020,"Arts, Entertainment & Recreation",Crushing injuries,1
+2020,"Arts, Entertainment & Recreation","Cuts, lacerations",6
+2020,"Arts, Entertainment & Recreation",Fractures,44
+2020,"Arts, Entertainment & Recreation","Heat (thermal) burns, unspecified",1
+2020,"Arts, Entertainment & Recreation",Internal injuries to organs and blood vessels of the trunk,3
+2020,"Arts, Entertainment & Recreation",Other,15
+2020,"Arts, Entertainment & Recreation","Puncture wounds, except gunshot wounds",2
+2020,"Arts, Entertainment & Recreation","Soreness, pain, hurt-nonspecified injury",9
+2020,"Arts, Entertainment & Recreation","Traumatic injuries and disorders, unspecified",2
+2020,Construction,Amputations,289
+2020,Construction,Crushing injuries,26
+2020,Construction,"Cuts, lacerations",103
+2020,Construction,Fractures,675
+2020,Construction,"Heat (thermal) burns, unspecified",21
+2020,Construction,Internal injuries to organs and blood vessels of the trunk,35
+2020,Construction,"Intracranial injuries, unspecified",44
+2020,Construction,Other,366
+2020,Construction,"Puncture wounds, except gunshot wounds",20
+2020,Construction,"Soreness, pain, hurt-nonspecified injury",122
+2020,Construction,"Traumatic injuries and disorders, unspecified",28
+2020,Educational Services,Amputations,5
+2020,Educational Services,"Cuts, lacerations",3
+2020,Educational Services,Fractures,13
+2020,Educational Services,"Intracranial injuries, unspecified",1
+2020,Educational Services,Other,13
+2020,Educational Services,"Soreness, pain, hurt-nonspecified injury",3
+2020,Educational Services,"Traumatic injuries and disorders, unspecified",1
+2020,Finance & Insurance,Amputations,1
+2020,Finance & Insurance,Crushing injuries,1
+2020,Finance & Insurance,"Cuts, lacerations",1
+2020,Finance & Insurance,Fractures,13
+2020,Finance & Insurance,"Intracranial injuries, unspecified",3
+2020,Finance & Insurance,Other,3
+2020,Health Care & Social Assistance,Amputations,25
+2020,Health Care & Social Assistance,"Cuts, lacerations",12
+2020,Health Care & Social Assistance,Fractures,204
+2020,Health Care & Social Assistance,"Heat (thermal) burns, unspecified",4
+2020,Health Care & Social Assistance,Internal injuries to organs and blood vessels of the trunk,6
+2020,Health Care & Social Assistance,"Intracranial injuries, unspecified",14
+2020,Health Care & Social Assistance,Other,93
+2020,Health Care & Social Assistance,"Puncture wounds, except gunshot wounds",4
+2020,Health Care & Social Assistance,"Soreness, pain, hurt-nonspecified injury",38
+2020,Health Care & Social Assistance,"Traumatic injuries and disorders, unspecified",9
+2020,Information,Amputations,6
+2020,Information,Crushing injuries,1
+2020,Information,"Cuts, lacerations",1
+2020,Information,Fractures,31
+2020,Information,Internal injuries to organs and blood vessels of the trunk,3
+2020,Information,"Intracranial injuries, unspecified",1
+2020,Information,Other,15
+2020,Information,"Soreness, pain, hurt-nonspecified injury",5
+2020,Management of Companies,Amputations,2
+2020,Management of Companies,Fractures,1
+2020,Management of Companies,Other,2
+2020,Management of Companies,"Soreness, pain, hurt-nonspecified injury",1
+2020,Manufacturing,Amputations,1273
+2020,Manufacturing,Crushing injuries,65
+2020,Manufacturing,"Cuts, lacerations",150
+2020,Manufacturing,Fractures,707
+2020,Manufacturing,"Heat (thermal) burns, unspecified",62
+2020,Manufacturing,Internal injuries to organs and blood vessels of the trunk,35
+2020,Manufacturing,"Intracranial injuries, unspecified",41
+2020,Manufacturing,Other,342
+2020,Manufacturing,"Puncture wounds, except gunshot wounds",38
+2020,Manufacturing,"Soreness, pain, hurt-nonspecified injury",110
+2020,Manufacturing,"Traumatic injuries and disorders, unspecified",13
+2020,"Mining, Oil & Gas",Amputations,37
+2020,"Mining, Oil & Gas",Crushing injuries,1
+2020,"Mining, Oil & Gas","Cuts, lacerations",8
+2020,"Mining, Oil & Gas",Fractures,43
+2020,"Mining, Oil & Gas","Heat (thermal) burns, unspecified",4
+2020,"Mining, Oil & Gas",Internal injuries to organs and blood vessels of the trunk,3
+2020,"Mining, Oil & Gas","Intracranial injuries, unspecified",5
+2020,"Mining, Oil & Gas",Other,36
+2020,"Mining, Oil & Gas","Puncture wounds, except gunshot wounds",1
+2020,"Mining, Oil & Gas","Soreness, pain, hurt-nonspecified injury",10
+2020,"Mining, Oil & Gas","Traumatic injuries and disorders, unspecified",1
+2020,Other Services,Amputations,33
+2020,Other Services,Crushing injuries,4
+2020,Other Services,"Cuts, lacerations",6
+2020,Other Services,Fractures,53
+2020,Other Services,"Heat (thermal) burns, unspecified",2
+2020,Other Services,Internal injuries to organs and blood vessels of the trunk,6
+2020,Other Services,"Intracranial injuries, unspecified",4
+2020,Other Services,Other,33
+2020,Other Services,"Puncture wounds, except gunshot wounds",2
+2020,Other Services,"Soreness, pain, hurt-nonspecified injury",14
+2020,Other Services,"Traumatic injuries and disorders, unspecified",1
+2020,Professional & Technical Services,Amputations,26
+2020,Professional & Technical Services,Crushing injuries,2
+2020,Professional & Technical Services,"Cuts, lacerations",6
+2020,Professional & Technical Services,Fractures,51
+2020,Professional & Technical Services,Internal injuries to organs and blood vessels of the trunk,2
+2020,Professional & Technical Services,"Intracranial injuries, unspecified",3
+2020,Professional & Technical Services,Other,31
+2020,Professional & Technical Services,"Puncture wounds, except gunshot wounds",7
+2020,Professional & Technical Services,"Soreness, pain, hurt-nonspecified injury",15
+2020,Professional & Technical Services,"Traumatic injuries and disorders, unspecified",5
+2020,Public Administration,Amputations,16
+2020,Public Administration,"Cuts, lacerations",4
+2020,Public Administration,Fractures,41
+2020,Public Administration,"Heat (thermal) burns, unspecified",1
+2020,Public Administration,Internal injuries to organs and blood vessels of the trunk,2
+2020,Public Administration,"Intracranial injuries, unspecified",5
+2020,Public Administration,Other,36
+2020,Public Administration,"Puncture wounds, except gunshot wounds",2
+2020,Public Administration,"Soreness, pain, hurt-nonspecified injury",11
+2020,Public Administration,"Traumatic injuries and disorders, unspecified",2
+2020,Real Estate & Leasing,Amputations,22
+2020,Real Estate & Leasing,Crushing injuries,2
+2020,Real Estate & Leasing,"Cuts, lacerations",10
+2020,Real Estate & Leasing,Fractures,38
+2020,Real Estate & Leasing,"Heat (thermal) burns, unspecified",2
+2020,Real Estate & Leasing,Internal injuries to organs and blood vessels of the trunk,4
+2020,Real Estate & Leasing,"Intracranial injuries, unspecified",4
+2020,Real Estate & Leasing,Other,13
+2020,Real Estate & Leasing,"Puncture wounds, except gunshot wounds",2
+2020,Real Estate & Leasing,"Soreness, pain, hurt-nonspecified injury",6
+2020,Real Estate & Leasing,"Traumatic injuries and disorders, unspecified",1
+2020,Retail Trade,Amputations,135
+2020,Retail Trade,Crushing injuries,9
+2020,Retail Trade,"Cuts, lacerations",27
+2020,Retail Trade,Fractures,301
+2020,Retail Trade,"Heat (thermal) burns, unspecified",6
+2020,Retail Trade,Internal injuries to organs and blood vessels of the trunk,14
+2020,Retail Trade,"Intracranial injuries, unspecified",26
+2020,Retail Trade,Other,106
+2020,Retail Trade,"Puncture wounds, except gunshot wounds",13
+2020,Retail Trade,"Soreness, pain, hurt-nonspecified injury",72
+2020,Retail Trade,"Traumatic injuries and disorders, unspecified",7
+2020,Transportation & Warehousing,Amputations,132
+2020,Transportation & Warehousing,Crushing injuries,18
+2020,Transportation & Warehousing,"Cuts, lacerations",27
+2020,Transportation & Warehousing,Fractures,343
+2020,Transportation & Warehousing,"Heat (thermal) burns, unspecified",6
+2020,Transportation & Warehousing,Internal injuries to organs and blood vessels of the trunk,16
+2020,Transportation & Warehousing,"Intracranial injuries, unspecified",18
+2020,Transportation & Warehousing,Other,161
+2020,Transportation & Warehousing,"Puncture wounds, except gunshot wounds",17
+2020,Transportation & Warehousing,"Soreness, pain, hurt-nonspecified injury",60
+2020,Transportation & Warehousing,"Traumatic injuries and disorders, unspecified",10
+2020,Unknown,Amputations,1
+2020,Unknown,Fractures,3
+2020,Unknown,Other,1
+2020,Utilities,Amputations,25
+2020,Utilities,Crushing injuries,2
+2020,Utilities,"Cuts, lacerations",3
+2020,Utilities,Fractures,35
+2020,Utilities,"Heat (thermal) burns, unspecified",4
+2020,Utilities,Internal injuries to organs and blood vessels of the trunk,4
+2020,Utilities,"Intracranial injuries, unspecified",2
+2020,Utilities,Other,54
+2020,Utilities,"Soreness, pain, hurt-nonspecified injury",6
+2020,Utilities,"Traumatic injuries and disorders, unspecified",3
+2020,Wholesale Trade,Amputations,137
+2020,Wholesale Trade,Crushing injuries,11
+2020,Wholesale Trade,"Cuts, lacerations",28
+2020,Wholesale Trade,Fractures,181
+2020,Wholesale Trade,"Heat (thermal) burns, unspecified",5
+2020,Wholesale Trade,Internal injuries to organs and blood vessels of the trunk,11
+2020,Wholesale Trade,"Intracranial injuries, unspecified",9
+2020,Wholesale Trade,Other,89
+2020,Wholesale Trade,"Puncture wounds, except gunshot wounds",6
+2020,Wholesale Trade,"Soreness, pain, hurt-nonspecified injury",35
+2020,Wholesale Trade,"Traumatic injuries and disorders, unspecified",5
+2021,Accommodation & Food Services,Amputations,30
+2021,Accommodation & Food Services,"Cuts, lacerations",8
+2021,Accommodation & Food Services,Fractures,50
+2021,Accommodation & Food Services,"Heat (thermal) burns, unspecified",12
+2021,Accommodation & Food Services,Internal injuries to organs and blood vessels of the trunk,1
+2021,Accommodation & Food Services,"Intracranial injuries, unspecified",5
+2021,Accommodation & Food Services,Other,33
+2021,Accommodation & Food Services,"Puncture wounds, except gunshot wounds",1
+2021,Accommodation & Food Services,"Soreness, pain, hurt-nonspecified injury",17
+2021,Accommodation & Food Services,"Traumatic injuries and disorders, unspecified",2
+2021,"Admin, Support & Waste Services",Amputations,83
+2021,"Admin, Support & Waste Services",Crushing injuries,10
+2021,"Admin, Support & Waste Services","Cuts, lacerations",24
+2021,"Admin, Support & Waste Services",Fractures,170
+2021,"Admin, Support & Waste Services","Heat (thermal) burns, unspecified",6
+2021,"Admin, Support & Waste Services",Internal injuries to organs and blood vessels of the trunk,9
+2021,"Admin, Support & Waste Services","Intracranial injuries, unspecified",9
+2021,"Admin, Support & Waste Services",Other,94
+2021,"Admin, Support & Waste Services","Puncture wounds, except gunshot wounds",5
+2021,"Admin, Support & Waste Services","Soreness, pain, hurt-nonspecified injury",34
+2021,"Admin, Support & Waste Services","Traumatic injuries and disorders, unspecified",13
+2021,"Agriculture, Forestry & Fishing",Amputations,38
+2021,"Agriculture, Forestry & Fishing",Crushing injuries,1
+2021,"Agriculture, Forestry & Fishing","Cuts, lacerations",3
+2021,"Agriculture, Forestry & Fishing",Fractures,51
+2021,"Agriculture, Forestry & Fishing","Heat (thermal) burns, unspecified",2
+2021,"Agriculture, Forestry & Fishing",Internal injuries to organs and blood vessels of the trunk,5
+2021,"Agriculture, Forestry & Fishing","Intracranial injuries, unspecified",4
+2021,"Agriculture, Forestry & Fishing",Other,28
+2021,"Agriculture, Forestry & Fishing","Puncture wounds, except gunshot wounds",3
+2021,"Agriculture, Forestry & Fishing","Soreness, pain, hurt-nonspecified injury",6
+2021,"Agriculture, Forestry & Fishing","Traumatic injuries and disorders, unspecified",2
+2021,"Arts, Entertainment & Recreation",Amputations,12
+2021,"Arts, Entertainment & Recreation","Cuts, lacerations",8
+2021,"Arts, Entertainment & Recreation",Fractures,55
+2021,"Arts, Entertainment & Recreation","Heat (thermal) burns, unspecified",2
+2021,"Arts, Entertainment & Recreation",Internal injuries to organs and blood vessels of the trunk,5
+2021,"Arts, Entertainment & Recreation","Intracranial injuries, unspecified",1
+2021,"Arts, Entertainment & Recreation",Other,17
+2021,"Arts, Entertainment & Recreation","Puncture wounds, except gunshot wounds",1
+2021,"Arts, Entertainment & Recreation","Soreness, pain, hurt-nonspecified injury",13
+2021,"Arts, Entertainment & Recreation","Traumatic injuries and disorders, unspecified",1
+2021,Construction,Amputations,226
+2021,Construction,Crushing injuries,21
+2021,Construction,"Cuts, lacerations",87
+2021,Construction,Fractures,627
+2021,Construction,"Heat (thermal) burns, unspecified",22
+2021,Construction,Internal injuries to organs and blood vessels of the trunk,45
+2021,Construction,"Intracranial injuries, unspecified",25
+2021,Construction,Other,311
+2021,Construction,"Puncture wounds, except gunshot wounds",27
+2021,Construction,"Soreness, pain, hurt-nonspecified injury",110
+2021,Construction,"Traumatic injuries and disorders, unspecified",27
+2021,Educational Services,Amputations,2
+2021,Educational Services,"Cuts, lacerations",2
+2021,Educational Services,Fractures,12
+2021,Educational Services,Internal injuries to organs and blood vessels of the trunk,1
+2021,Educational Services,"Intracranial injuries, unspecified",2
+2021,Educational Services,Other,9
+2021,Educational Services,"Soreness, pain, hurt-nonspecified injury",5
+2021,Educational Services,"Traumatic injuries and disorders, unspecified",2
+2021,Finance & Insurance,Amputations,2
+2021,Finance & Insurance,"Cuts, lacerations",2
+2021,Finance & Insurance,Fractures,12
+2021,Finance & Insurance,Other,2
+2021,Finance & Insurance,"Puncture wounds, except gunshot wounds",1
+2021,Finance & Insurance,"Soreness, pain, hurt-nonspecified injury",2
+2021,Health Care & Social Assistance,Amputations,34
+2021,Health Care & Social Assistance,Crushing injuries,1
+2021,Health Care & Social Assistance,"Cuts, lacerations",4
+2021,Health Care & Social Assistance,Fractures,214
+2021,Health Care & Social Assistance,"Heat (thermal) burns, unspecified",2
+2021,Health Care & Social Assistance,Internal injuries to organs and blood vessels of the trunk,6
+2021,Health Care & Social Assistance,"Intracranial injuries, unspecified",13
+2021,Health Care & Social Assistance,Other,78
+2021,Health Care & Social Assistance,"Puncture wounds, except gunshot wounds",3
+2021,Health Care & Social Assistance,"Soreness, pain, hurt-nonspecified injury",49
+2021,Health Care & Social Assistance,"Traumatic injuries and disorders, unspecified",3
+2021,Information,Amputations,10
+2021,Information,Crushing injuries,2
+2021,Information,Fractures,30
+2021,Information,"Intracranial injuries, unspecified",1
+2021,Information,Other,18
+2021,Information,"Puncture wounds, except gunshot wounds",1
+2021,Information,"Soreness, pain, hurt-nonspecified injury",7
+2021,Information,"Traumatic injuries and disorders, unspecified",1
+2021,Management of Companies,Fractures,1
+2021,Management of Companies,Other,2
+2021,Management of Companies,"Soreness, pain, hurt-nonspecified injury",1
+2021,Manufacturing,Amputations,1298
+2021,Manufacturing,Crushing injuries,70
+2021,Manufacturing,"Cuts, lacerations",145
+2021,Manufacturing,Fractures,732
+2021,Manufacturing,"Heat (thermal) burns, unspecified",74
+2021,Manufacturing,Internal injuries to organs and blood vessels of the trunk,39
+2021,Manufacturing,"Intracranial injuries, unspecified",28
+2021,Manufacturing,Other,375
+2021,Manufacturing,"Puncture wounds, except gunshot wounds",34
+2021,Manufacturing,"Soreness, pain, hurt-nonspecified injury",125
+2021,Manufacturing,"Traumatic injuries and disorders, unspecified",28
+2021,"Mining, Oil & Gas",Amputations,56
+2021,"Mining, Oil & Gas",Crushing injuries,1
+2021,"Mining, Oil & Gas","Cuts, lacerations",10
+2021,"Mining, Oil & Gas",Fractures,47
+2021,"Mining, Oil & Gas","Heat (thermal) burns, unspecified",6
+2021,"Mining, Oil & Gas",Internal injuries to organs and blood vessels of the trunk,5
+2021,"Mining, Oil & Gas","Intracranial injuries, unspecified",2
+2021,"Mining, Oil & Gas",Other,25
+2021,"Mining, Oil & Gas","Puncture wounds, except gunshot wounds",2
+2021,"Mining, Oil & Gas","Soreness, pain, hurt-nonspecified injury",7
+2021,"Mining, Oil & Gas","Traumatic injuries and disorders, unspecified",1
+2021,Other Services,Amputations,46
+2021,Other Services,Crushing injuries,2
+2021,Other Services,"Cuts, lacerations",8
+2021,Other Services,Fractures,56
+2021,Other Services,"Heat (thermal) burns, unspecified",6
+2021,Other Services,Internal injuries to organs and blood vessels of the trunk,4
+2021,Other Services,"Intracranial injuries, unspecified",3
+2021,Other Services,Other,40
+2021,Other Services,"Puncture wounds, except gunshot wounds",1
+2021,Other Services,"Soreness, pain, hurt-nonspecified injury",13
+2021,Other Services,"Traumatic injuries and disorders, unspecified",1
+2021,Professional & Technical Services,Amputations,23
+2021,Professional & Technical Services,Crushing injuries,6
+2021,Professional & Technical Services,"Cuts, lacerations",6
+2021,Professional & Technical Services,Fractures,44
+2021,Professional & Technical Services,"Heat (thermal) burns, unspecified",1
+2021,Professional & Technical Services,Internal injuries to organs and blood vessels of the trunk,3
+2021,Professional & Technical Services,"Intracranial injuries, unspecified",2
+2021,Professional & Technical Services,Other,24
+2021,Professional & Technical Services,"Puncture wounds, except gunshot wounds",8
+2021,Professional & Technical Services,"Soreness, pain, hurt-nonspecified injury",15
+2021,Professional & Technical Services,"Traumatic injuries and disorders, unspecified",2
+2021,Public Administration,Amputations,27
+2021,Public Administration,Crushing injuries,1
+2021,Public Administration,"Cuts, lacerations",9
+2021,Public Administration,Fractures,34
+2021,Public Administration,"Heat (thermal) burns, unspecified",1
+2021,Public Administration,"Intracranial injuries, unspecified",2
+2021,Public Administration,Other,31
+2021,Public Administration,"Puncture wounds, except gunshot wounds",1
+2021,Public Administration,"Soreness, pain, hurt-nonspecified injury",4
+2021,Public Administration,"Traumatic injuries and disorders, unspecified",3
+2021,Real Estate & Leasing,Amputations,14
+2021,Real Estate & Leasing,Crushing injuries,2
+2021,Real Estate & Leasing,"Cuts, lacerations",5
+2021,Real Estate & Leasing,Fractures,30
+2021,Real Estate & Leasing,Internal injuries to organs and blood vessels of the trunk,1
+2021,Real Estate & Leasing,"Intracranial injuries, unspecified",5
+2021,Real Estate & Leasing,Other,27
+2021,Real Estate & Leasing,"Puncture wounds, except gunshot wounds",1
+2021,Real Estate & Leasing,"Soreness, pain, hurt-nonspecified injury",6
+2021,Real Estate & Leasing,"Traumatic injuries and disorders, unspecified",3
+2021,Retail Trade,Amputations,121
+2021,Retail Trade,Crushing injuries,7
+2021,Retail Trade,"Cuts, lacerations",35
+2021,Retail Trade,Fractures,282
+2021,Retail Trade,"Heat (thermal) burns, unspecified",8
+2021,Retail Trade,Internal injuries to organs and blood vessels of the trunk,5
+2021,Retail Trade,"Intracranial injuries, unspecified",19
+2021,Retail Trade,Other,105
+2021,Retail Trade,"Puncture wounds, except gunshot wounds",11
+2021,Retail Trade,"Soreness, pain, hurt-nonspecified injury",68
+2021,Retail Trade,"Traumatic injuries and disorders, unspecified",17
+2021,Transportation & Warehousing,Amputations,110
+2021,Transportation & Warehousing,Crushing injuries,17
+2021,Transportation & Warehousing,"Cuts, lacerations",31
+2021,Transportation & Warehousing,Fractures,358
+2021,Transportation & Warehousing,"Heat (thermal) burns, unspecified",7
+2021,Transportation & Warehousing,Internal injuries to organs and blood vessels of the trunk,22
+2021,Transportation & Warehousing,"Intracranial injuries, unspecified",17
+2021,Transportation & Warehousing,Other,158
+2021,Transportation & Warehousing,"Puncture wounds, except gunshot wounds",7
+2021,Transportation & Warehousing,"Soreness, pain, hurt-nonspecified injury",74
+2021,Transportation & Warehousing,"Traumatic injuries and disorders, unspecified",15
+2021,Unknown,Fractures,1
+2021,Utilities,Amputations,19
+2021,Utilities,Crushing injuries,2
+2021,Utilities,"Cuts, lacerations",4
+2021,Utilities,Fractures,33
+2021,Utilities,"Heat (thermal) burns, unspecified",5
+2021,Utilities,Internal injuries to organs and blood vessels of the trunk,4
+2021,Utilities,Other,33
+2021,Utilities,"Puncture wounds, except gunshot wounds",1
+2021,Utilities,"Soreness, pain, hurt-nonspecified injury",8
+2021,Wholesale Trade,Amputations,131
+2021,Wholesale Trade,Crushing injuries,17
+2021,Wholesale Trade,"Cuts, lacerations",35
+2021,Wholesale Trade,Fractures,217
+2021,Wholesale Trade,"Heat (thermal) burns, unspecified",1
+2021,Wholesale Trade,Internal injuries to organs and blood vessels of the trunk,7
+2021,Wholesale Trade,"Intracranial injuries, unspecified",12
+2021,Wholesale Trade,Other,67
+2021,Wholesale Trade,"Puncture wounds, except gunshot wounds",7
+2021,Wholesale Trade,"Soreness, pain, hurt-nonspecified injury",31
+2021,Wholesale Trade,"Traumatic injuries and disorders, unspecified",4
+2022,Accommodation & Food Services,Amputations,35
+2022,Accommodation & Food Services,Crushing injuries,2
+2022,Accommodation & Food Services,"Cuts, lacerations",12
+2022,Accommodation & Food Services,Fractures,62
+2022,Accommodation & Food Services,"Heat (thermal) burns, unspecified",19
+2022,Accommodation & Food Services,Internal injuries to organs and blood vessels of the trunk,1
+2022,Accommodation & Food Services,"Intracranial injuries, unspecified",3
+2022,Accommodation & Food Services,Other,60
+2022,Accommodation & Food Services,"Puncture wounds, except gunshot wounds",2
+2022,Accommodation & Food Services,"Soreness, pain, hurt-nonspecified injury",14
+2022,Accommodation & Food Services,"Traumatic injuries and disorders, unspecified",1
+2022,"Admin, Support & Waste Services",Amputations,97
+2022,"Admin, Support & Waste Services",Crushing injuries,5
+2022,"Admin, Support & Waste Services","Cuts, lacerations",28
+2022,"Admin, Support & Waste Services",Fractures,164
+2022,"Admin, Support & Waste Services","Heat (thermal) burns, unspecified",7
+2022,"Admin, Support & Waste Services",Internal injuries to organs and blood vessels of the trunk,10
+2022,"Admin, Support & Waste Services","Intracranial injuries, unspecified",8
+2022,"Admin, Support & Waste Services",Other,126
+2022,"Admin, Support & Waste Services","Puncture wounds, except gunshot wounds",7
+2022,"Admin, Support & Waste Services","Soreness, pain, hurt-nonspecified injury",48
+2022,"Admin, Support & Waste Services","Traumatic injuries and disorders, unspecified",7
+2022,"Agriculture, Forestry & Fishing",Amputations,40
+2022,"Agriculture, Forestry & Fishing",Crushing injuries,1
+2022,"Agriculture, Forestry & Fishing","Cuts, lacerations",5
+2022,"Agriculture, Forestry & Fishing",Fractures,45
+2022,"Agriculture, Forestry & Fishing","Heat (thermal) burns, unspecified",4
+2022,"Agriculture, Forestry & Fishing",Internal injuries to organs and blood vessels of the trunk,5
+2022,"Agriculture, Forestry & Fishing","Intracranial injuries, unspecified",2
+2022,"Agriculture, Forestry & Fishing",Other,53
+2022,"Agriculture, Forestry & Fishing","Puncture wounds, except gunshot wounds",3
+2022,"Agriculture, Forestry & Fishing","Soreness, pain, hurt-nonspecified injury",15
+2022,"Agriculture, Forestry & Fishing","Traumatic injuries and disorders, unspecified",1
+2022,"Arts, Entertainment & Recreation",Amputations,13
+2022,"Arts, Entertainment & Recreation",Crushing injuries,2
+2022,"Arts, Entertainment & Recreation","Cuts, lacerations",8
+2022,"Arts, Entertainment & Recreation",Fractures,46
+2022,"Arts, Entertainment & Recreation","Heat (thermal) burns, unspecified",5
+2022,"Arts, Entertainment & Recreation",Internal injuries to organs and blood vessels of the trunk,2
+2022,"Arts, Entertainment & Recreation","Intracranial injuries, unspecified",3
+2022,"Arts, Entertainment & Recreation",Other,23
+2022,"Arts, Entertainment & Recreation","Puncture wounds, except gunshot wounds",1
+2022,"Arts, Entertainment & Recreation","Soreness, pain, hurt-nonspecified injury",14
+2022,"Arts, Entertainment & Recreation","Traumatic injuries and disorders, unspecified",2
+2022,Construction,Amputations,216
+2022,Construction,Crushing injuries,30
+2022,Construction,"Cuts, lacerations",91
+2022,Construction,Fractures,628
+2022,Construction,"Heat (thermal) burns, unspecified",32
+2022,Construction,Internal injuries to organs and blood vessels of the trunk,27
+2022,Construction,"Intracranial injuries, unspecified",27
+2022,Construction,Other,332
+2022,Construction,"Puncture wounds, except gunshot wounds",17
+2022,Construction,"Soreness, pain, hurt-nonspecified injury",96
+2022,Construction,"Traumatic injuries and disorders, unspecified",20
+2022,Educational Services,Amputations,8
+2022,Educational Services,"Cuts, lacerations",1
+2022,Educational Services,Fractures,19
+2022,Educational Services,"Heat (thermal) burns, unspecified",3
+2022,Educational Services,Internal injuries to organs and blood vessels of the trunk,1
+2022,Educational Services,"Intracranial injuries, unspecified",4
+2022,Educational Services,Other,9
+2022,Educational Services,"Soreness, pain, hurt-nonspecified injury",4
+2022,Educational Services,"Traumatic injuries and disorders, unspecified",1
+2022,Finance & Insurance,Amputations,4
+2022,Finance & Insurance,"Cuts, lacerations",1
+2022,Finance & Insurance,Fractures,9
+2022,Finance & Insurance,Other,1
+2022,Finance & Insurance,"Puncture wounds, except gunshot wounds",1
+2022,Finance & Insurance,"Soreness, pain, hurt-nonspecified injury",3
+2022,Health Care & Social Assistance,Amputations,23
+2022,Health Care & Social Assistance,Crushing injuries,1
+2022,Health Care & Social Assistance,"Cuts, lacerations",9
+2022,Health Care & Social Assistance,Fractures,224
+2022,Health Care & Social Assistance,"Heat (thermal) burns, unspecified",8
+2022,Health Care & Social Assistance,Internal injuries to organs and blood vessels of the trunk,5
+2022,Health Care & Social Assistance,"Intracranial injuries, unspecified",17
+2022,Health Care & Social Assistance,Other,95
+2022,Health Care & Social Assistance,"Puncture wounds, except gunshot wounds",6
+2022,Health Care & Social Assistance,"Soreness, pain, hurt-nonspecified injury",39
+2022,Health Care & Social Assistance,"Traumatic injuries and disorders, unspecified",5
+2022,Information,Amputations,11
+2022,Information,Crushing injuries,2
+2022,Information,"Cuts, lacerations",4
+2022,Information,Fractures,41
+2022,Information,Internal injuries to organs and blood vessels of the trunk,2
+2022,Information,"Intracranial injuries, unspecified",2
+2022,Information,Other,14
+2022,Information,"Soreness, pain, hurt-nonspecified injury",7
+2022,Management of Companies,Amputations,1
+2022,Management of Companies,Fractures,3
+2022,Management of Companies,Other,1
+2022,Manufacturing,Amputations,1330
+2022,Manufacturing,Crushing injuries,82
+2022,Manufacturing,"Cuts, lacerations",129
+2022,Manufacturing,Fractures,715
+2022,Manufacturing,"Heat (thermal) burns, unspecified",77
+2022,Manufacturing,Internal injuries to organs and blood vessels of the trunk,35
+2022,Manufacturing,"Intracranial injuries, unspecified",22
+2022,Manufacturing,Other,396
+2022,Manufacturing,"Puncture wounds, except gunshot wounds",38
+2022,Manufacturing,"Soreness, pain, hurt-nonspecified injury",116
+2022,Manufacturing,"Traumatic injuries and disorders, unspecified",14
+2022,"Mining, Oil & Gas",Amputations,66
+2022,"Mining, Oil & Gas",Crushing injuries,3
+2022,"Mining, Oil & Gas","Cuts, lacerations",7
+2022,"Mining, Oil & Gas",Fractures,73
+2022,"Mining, Oil & Gas","Heat (thermal) burns, unspecified",14
+2022,"Mining, Oil & Gas",Internal injuries to organs and blood vessels of the trunk,7
+2022,"Mining, Oil & Gas","Intracranial injuries, unspecified",6
+2022,"Mining, Oil & Gas",Other,40
+2022,"Mining, Oil & Gas","Puncture wounds, except gunshot wounds",2
+2022,"Mining, Oil & Gas","Soreness, pain, hurt-nonspecified injury",6
+2022,"Mining, Oil & Gas","Traumatic injuries and disorders, unspecified",3
+2022,Other Services,Amputations,29
+2022,Other Services,Crushing injuries,3
+2022,Other Services,"Cuts, lacerations",12
+2022,Other Services,Fractures,57
+2022,Other Services,"Heat (thermal) burns, unspecified",4
+2022,Other Services,Internal injuries to organs and blood vessels of the trunk,3
+2022,Other Services,"Intracranial injuries, unspecified",7
+2022,Other Services,Other,38
+2022,Other Services,"Puncture wounds, except gunshot wounds",3
+2022,Other Services,"Soreness, pain, hurt-nonspecified injury",18
+2022,Other Services,"Traumatic injuries and disorders, unspecified",2
+2022,Professional & Technical Services,Amputations,30
+2022,Professional & Technical Services,Crushing injuries,2
+2022,Professional & Technical Services,"Cuts, lacerations",6
+2022,Professional & Technical Services,Fractures,54
+2022,Professional & Technical Services,"Heat (thermal) burns, unspecified",3
+2022,Professional & Technical Services,Internal injuries to organs and blood vessels of the trunk,1
+2022,Professional & Technical Services,"Intracranial injuries, unspecified",7
+2022,Professional & Technical Services,Other,37
+2022,Professional & Technical Services,"Puncture wounds, except gunshot wounds",10
+2022,Professional & Technical Services,"Soreness, pain, hurt-nonspecified injury",5
+2022,Public Administration,Amputations,18
+2022,Public Administration,"Cuts, lacerations",4
+2022,Public Administration,Fractures,30
+2022,Public Administration,"Heat (thermal) burns, unspecified",1
+2022,Public Administration,Internal injuries to organs and blood vessels of the trunk,1
+2022,Public Administration,Other,24
+2022,Public Administration,"Soreness, pain, hurt-nonspecified injury",2
+2022,Real Estate & Leasing,Amputations,15
+2022,Real Estate & Leasing,Crushing injuries,2
+2022,Real Estate & Leasing,"Cuts, lacerations",7
+2022,Real Estate & Leasing,Fractures,38
+2022,Real Estate & Leasing,"Heat (thermal) burns, unspecified",1
+2022,Real Estate & Leasing,Internal injuries to organs and blood vessels of the trunk,2
+2022,Real Estate & Leasing,"Intracranial injuries, unspecified",1
+2022,Real Estate & Leasing,Other,26
+2022,Real Estate & Leasing,"Puncture wounds, except gunshot wounds",2
+2022,Real Estate & Leasing,"Soreness, pain, hurt-nonspecified injury",10
+2022,Real Estate & Leasing,"Traumatic injuries and disorders, unspecified",3
+2022,Retail Trade,Amputations,118
+2022,Retail Trade,Crushing injuries,8
+2022,Retail Trade,"Cuts, lacerations",28
+2022,Retail Trade,Fractures,321
+2022,Retail Trade,"Heat (thermal) burns, unspecified",6
+2022,Retail Trade,Internal injuries to organs and blood vessels of the trunk,6
+2022,Retail Trade,"Intracranial injuries, unspecified",20
+2022,Retail Trade,Other,117
+2022,Retail Trade,"Puncture wounds, except gunshot wounds",16
+2022,Retail Trade,"Soreness, pain, hurt-nonspecified injury",71
+2022,Retail Trade,"Traumatic injuries and disorders, unspecified",13
+2022,Transportation & Warehousing,Amputations,157
+2022,Transportation & Warehousing,Crushing injuries,30
+2022,Transportation & Warehousing,"Cuts, lacerations",35
+2022,Transportation & Warehousing,Fractures,338
+2022,Transportation & Warehousing,"Heat (thermal) burns, unspecified",4
+2022,Transportation & Warehousing,Internal injuries to organs and blood vessels of the trunk,16
+2022,Transportation & Warehousing,"Intracranial injuries, unspecified",26
+2022,Transportation & Warehousing,Other,168
+2022,Transportation & Warehousing,"Puncture wounds, except gunshot wounds",10
+2022,Transportation & Warehousing,"Soreness, pain, hurt-nonspecified injury",70
+2022,Transportation & Warehousing,"Traumatic injuries and disorders, unspecified",9
+2022,Utilities,Amputations,20
+2022,Utilities,Crushing injuries,2
+2022,Utilities,"Cuts, lacerations",4
+2022,Utilities,Fractures,24
+2022,Utilities,"Heat (thermal) burns, unspecified",2
+2022,Utilities,Internal injuries to organs and blood vessels of the trunk,3
+2022,Utilities,"Intracranial injuries, unspecified",1
+2022,Utilities,Other,51
+2022,Utilities,"Soreness, pain, hurt-nonspecified injury",11
+2022,Utilities,"Traumatic injuries and disorders, unspecified",1
+2022,Wholesale Trade,Amputations,151
+2022,Wholesale Trade,Crushing injuries,11
+2022,Wholesale Trade,"Cuts, lacerations",27
+2022,Wholesale Trade,Fractures,215
+2022,Wholesale Trade,"Heat (thermal) burns, unspecified",10
+2022,Wholesale Trade,Internal injuries to organs and blood vessels of the trunk,15
+2022,Wholesale Trade,"Intracranial injuries, unspecified",13
+2022,Wholesale Trade,Other,92
+2022,Wholesale Trade,"Puncture wounds, except gunshot wounds",8
+2022,Wholesale Trade,"Soreness, pain, hurt-nonspecified injury",44
+2022,Wholesale Trade,"Traumatic injuries and disorders, unspecified",3
+2023,Accommodation & Food Services,Amputations,35
+2023,Accommodation & Food Services,Crushing injuries,1
+2023,Accommodation & Food Services,"Cuts, lacerations",15
+2023,Accommodation & Food Services,Fractures,52
+2023,Accommodation & Food Services,"Heat (thermal) burns, unspecified",19
+2023,Accommodation & Food Services,Internal injuries to organs and blood vessels of the trunk,1
+2023,Accommodation & Food Services,"Intracranial injuries, unspecified",3
+2023,Accommodation & Food Services,Other,43
+2023,Accommodation & Food Services,"Puncture wounds, except gunshot wounds",2
+2023,Accommodation & Food Services,"Soreness, pain, hurt-nonspecified injury",11
+2023,Accommodation & Food Services,"Traumatic injuries and disorders, unspecified",1
+2023,"Admin, Support & Waste Services",Amputations,91
+2023,"Admin, Support & Waste Services",Crushing injuries,9
+2023,"Admin, Support & Waste Services","Cuts, lacerations",24
+2023,"Admin, Support & Waste Services",Fractures,173
+2023,"Admin, Support & Waste Services","Heat (thermal) burns, unspecified",5
+2023,"Admin, Support & Waste Services",Internal injuries to organs and blood vessels of the trunk,9
+2023,"Admin, Support & Waste Services","Intracranial injuries, unspecified",10
+2023,"Admin, Support & Waste Services",Other,117
+2023,"Admin, Support & Waste Services","Puncture wounds, except gunshot wounds",5
+2023,"Admin, Support & Waste Services","Soreness, pain, hurt-nonspecified injury",27
+2023,"Admin, Support & Waste Services","Traumatic injuries and disorders, unspecified",4
+2023,"Agriculture, Forestry & Fishing",Amputations,44
+2023,"Agriculture, Forestry & Fishing",Crushing injuries,2
+2023,"Agriculture, Forestry & Fishing","Cuts, lacerations",10
+2023,"Agriculture, Forestry & Fishing",Fractures,41
+2023,"Agriculture, Forestry & Fishing","Heat (thermal) burns, unspecified",3
+2023,"Agriculture, Forestry & Fishing",Internal injuries to organs and blood vessels of the trunk,3
+2023,"Agriculture, Forestry & Fishing","Intracranial injuries, unspecified",1
+2023,"Agriculture, Forestry & Fishing",Other,23
+2023,"Agriculture, Forestry & Fishing","Soreness, pain, hurt-nonspecified injury",10
+2023,"Arts, Entertainment & Recreation",Amputations,18
+2023,"Arts, Entertainment & Recreation",Crushing injuries,1
+2023,"Arts, Entertainment & Recreation","Cuts, lacerations",7
+2023,"Arts, Entertainment & Recreation",Fractures,49
+2023,"Arts, Entertainment & Recreation","Heat (thermal) burns, unspecified",3
+2023,"Arts, Entertainment & Recreation",Internal injuries to organs and blood vessels of the trunk,2
+2023,"Arts, Entertainment & Recreation","Intracranial injuries, unspecified",6
+2023,"Arts, Entertainment & Recreation",Other,33
+2023,"Arts, Entertainment & Recreation","Puncture wounds, except gunshot wounds",1
+2023,"Arts, Entertainment & Recreation","Soreness, pain, hurt-nonspecified injury",8
+2023,Construction,Amputations,266
+2023,Construction,Crushing injuries,22
+2023,Construction,"Cuts, lacerations",78
+2023,Construction,Fractures,668
+2023,Construction,"Heat (thermal) burns, unspecified",28
+2023,Construction,Internal injuries to organs and blood vessels of the trunk,42
+2023,Construction,"Intracranial injuries, unspecified",41
+2023,Construction,Other,332
+2023,Construction,"Puncture wounds, except gunshot wounds",30
+2023,Construction,"Soreness, pain, hurt-nonspecified injury",106
+2023,Construction,"Traumatic injuries and disorders, unspecified",13
+2023,Educational Services,Amputations,6
+2023,Educational Services,"Cuts, lacerations",2
+2023,Educational Services,Fractures,18
+2023,Educational Services,Internal injuries to organs and blood vessels of the trunk,1
+2023,Educational Services,"Intracranial injuries, unspecified",3
+2023,Educational Services,Other,13
+2023,Educational Services,"Soreness, pain, hurt-nonspecified injury",6
+2023,Finance & Insurance,Amputations,3
+2023,Finance & Insurance,Fractures,7
+2023,Finance & Insurance,Other,4
+2023,Finance & Insurance,"Puncture wounds, except gunshot wounds",1
+2023,Finance & Insurance,"Soreness, pain, hurt-nonspecified injury",5
+2023,Finance & Insurance,"Traumatic injuries and disorders, unspecified",1
+2023,Health Care & Social Assistance,Amputations,37
+2023,Health Care & Social Assistance,Crushing injuries,1
+2023,Health Care & Social Assistance,"Cuts, lacerations",6
+2023,Health Care & Social Assistance,Fractures,196
+2023,Health Care & Social Assistance,"Heat (thermal) burns, unspecified",3
+2023,Health Care & Social Assistance,Internal injuries to organs and blood vessels of the trunk,7
+2023,Health Care & Social Assistance,"Intracranial injuries, unspecified",9
+2023,Health Care & Social Assistance,Other,94
+2023,Health Care & Social Assistance,"Puncture wounds, except gunshot wounds",3
+2023,Health Care & Social Assistance,"Soreness, pain, hurt-nonspecified injury",36
+2023,Health Care & Social Assistance,"Traumatic injuries and disorders, unspecified",2
+2023,Information,Amputations,8
+2023,Information,Crushing injuries,1
+2023,Information,"Cuts, lacerations",1
+2023,Information,Fractures,36
+2023,Information,"Intracranial injuries, unspecified",1
+2023,Information,Other,21
+2023,Information,"Soreness, pain, hurt-nonspecified injury",5
+2023,Information,"Traumatic injuries and disorders, unspecified",3
+2023,Management of Companies,"Intracranial injuries, unspecified",1
+2023,Management of Companies,"Soreness, pain, hurt-nonspecified injury",1
+2023,Manufacturing,Amputations,1356
+2023,Manufacturing,Crushing injuries,80
+2023,Manufacturing,"Cuts, lacerations",120
+2023,Manufacturing,Fractures,686
+2023,Manufacturing,"Heat (thermal) burns, unspecified",88
+2023,Manufacturing,Internal injuries to organs and blood vessels of the trunk,36
+2023,Manufacturing,"Intracranial injuries, unspecified",22
+2023,Manufacturing,Other,372
+2023,Manufacturing,"Puncture wounds, except gunshot wounds",34
+2023,Manufacturing,"Soreness, pain, hurt-nonspecified injury",120
+2023,Manufacturing,"Traumatic injuries and disorders, unspecified",10
+2023,"Mining, Oil & Gas",Amputations,69
+2023,"Mining, Oil & Gas",Crushing injuries,4
+2023,"Mining, Oil & Gas","Cuts, lacerations",4
+2023,"Mining, Oil & Gas",Fractures,61
+2023,"Mining, Oil & Gas","Heat (thermal) burns, unspecified",15
+2023,"Mining, Oil & Gas",Internal injuries to organs and blood vessels of the trunk,3
+2023,"Mining, Oil & Gas","Intracranial injuries, unspecified",1
+2023,"Mining, Oil & Gas",Other,37
+2023,"Mining, Oil & Gas","Puncture wounds, except gunshot wounds",1
+2023,"Mining, Oil & Gas","Soreness, pain, hurt-nonspecified injury",10
+2023,"Mining, Oil & Gas","Traumatic injuries and disorders, unspecified",2
+2023,Other Services,Amputations,37
+2023,Other Services,Crushing injuries,5
+2023,Other Services,"Cuts, lacerations",6
+2023,Other Services,Fractures,55
+2023,Other Services,"Heat (thermal) burns, unspecified",12
+2023,Other Services,Internal injuries to organs and blood vessels of the trunk,2
+2023,Other Services,"Intracranial injuries, unspecified",3
+2023,Other Services,Other,31
+2023,Other Services,"Puncture wounds, except gunshot wounds",1
+2023,Other Services,"Soreness, pain, hurt-nonspecified injury",7
+2023,Professional & Technical Services,Amputations,24
+2023,Professional & Technical Services,Crushing injuries,1
+2023,Professional & Technical Services,"Cuts, lacerations",8
+2023,Professional & Technical Services,Fractures,59
+2023,Professional & Technical Services,"Heat (thermal) burns, unspecified",2
+2023,Professional & Technical Services,Internal injuries to organs and blood vessels of the trunk,2
+2023,Professional & Technical Services,"Intracranial injuries, unspecified",2
+2023,Professional & Technical Services,Other,31
+2023,Professional & Technical Services,"Puncture wounds, except gunshot wounds",3
+2023,Professional & Technical Services,"Soreness, pain, hurt-nonspecified injury",14
+2023,Public Administration,Amputations,24
+2023,Public Administration,Crushing injuries,1
+2023,Public Administration,"Cuts, lacerations",7
+2023,Public Administration,Fractures,46
+2023,Public Administration,"Heat (thermal) burns, unspecified",3
+2023,Public Administration,Internal injuries to organs and blood vessels of the trunk,3
+2023,Public Administration,"Intracranial injuries, unspecified",2
+2023,Public Administration,Other,37
+2023,Public Administration,"Puncture wounds, except gunshot wounds",1
+2023,Public Administration,"Soreness, pain, hurt-nonspecified injury",6
+2023,Public Administration,"Traumatic injuries and disorders, unspecified",1
+2023,Real Estate & Leasing,Amputations,23
+2023,Real Estate & Leasing,Crushing injuries,1
+2023,Real Estate & Leasing,"Cuts, lacerations",5
+2023,Real Estate & Leasing,Fractures,47
+2023,Real Estate & Leasing,"Heat (thermal) burns, unspecified",2
+2023,Real Estate & Leasing,Internal injuries to organs and blood vessels of the trunk,3
+2023,Real Estate & Leasing,"Intracranial injuries, unspecified",2
+2023,Real Estate & Leasing,Other,26
+2023,Real Estate & Leasing,"Puncture wounds, except gunshot wounds",2
+2023,Real Estate & Leasing,"Soreness, pain, hurt-nonspecified injury",11
+2023,Retail Trade,Amputations,111
+2023,Retail Trade,Crushing injuries,6
+2023,Retail Trade,"Cuts, lacerations",20
+2023,Retail Trade,Fractures,343
+2023,Retail Trade,"Heat (thermal) burns, unspecified",8
+2023,Retail Trade,Internal injuries to organs and blood vessels of the trunk,7
+2023,Retail Trade,"Intracranial injuries, unspecified",14
+2023,Retail Trade,Other,120
+2023,Retail Trade,"Puncture wounds, except gunshot wounds",2
+2023,Retail Trade,"Soreness, pain, hurt-nonspecified injury",74
+2023,Retail Trade,"Traumatic injuries and disorders, unspecified",2
+2023,Transportation & Warehousing,Amputations,136
+2023,Transportation & Warehousing,Crushing injuries,15
+2023,Transportation & Warehousing,"Cuts, lacerations",29
+2023,Transportation & Warehousing,Fractures,311
+2023,Transportation & Warehousing,"Heat (thermal) burns, unspecified",9
+2023,Transportation & Warehousing,Internal injuries to organs and blood vessels of the trunk,21
+2023,Transportation & Warehousing,"Intracranial injuries, unspecified",21
+2023,Transportation & Warehousing,Other,189
+2023,Transportation & Warehousing,"Puncture wounds, except gunshot wounds",7
+2023,Transportation & Warehousing,"Soreness, pain, hurt-nonspecified injury",72
+2023,Transportation & Warehousing,"Traumatic injuries and disorders, unspecified",2
+2023,Unknown,"Cuts, lacerations",2
+2023,Utilities,Amputations,16
+2023,Utilities,Crushing injuries,4
+2023,Utilities,"Cuts, lacerations",3
+2023,Utilities,Fractures,30
+2023,Utilities,"Heat (thermal) burns, unspecified",2
+2023,Utilities,Internal injuries to organs and blood vessels of the trunk,3
+2023,Utilities,"Intracranial injuries, unspecified",2
+2023,Utilities,Other,61
+2023,Utilities,"Puncture wounds, except gunshot wounds",1
+2023,Utilities,"Soreness, pain, hurt-nonspecified injury",7
+2023,Wholesale Trade,Amputations,129
+2023,Wholesale Trade,Crushing injuries,12
+2023,Wholesale Trade,"Cuts, lacerations",23
+2023,Wholesale Trade,Fractures,196
+2023,Wholesale Trade,"Heat (thermal) burns, unspecified",7
+2023,Wholesale Trade,Internal injuries to organs and blood vessels of the trunk,19
+2023,Wholesale Trade,"Intracranial injuries, unspecified",8
+2023,Wholesale Trade,Other,71
+2023,Wholesale Trade,"Puncture wounds, except gunshot wounds",5
+2023,Wholesale Trade,"Soreness, pain, hurt-nonspecified injury",43
+2023,Wholesale Trade,"Traumatic injuries and disorders, unspecified",1
+2024,Accommodation & Food Services,Amputations involving bone loss,4
+2024,Accommodation & Food Services,"Amputations, avulsions, enucleations unspecified",23
+2024,Accommodation & Food Services,Fractures,74
+2024,Accommodation & Food Services,Other,87
+2024,"Admin, Support & Waste Services",Amputations involving bone loss,45
+2024,"Admin, Support & Waste Services","Amputations, avulsions, enucleations unspecified",67
+2024,"Admin, Support & Waste Services",Fractures,192
+2024,"Admin, Support & Waste Services",Other,220
+2024,"Agriculture, Forestry & Fishing",Amputations involving bone loss,19
+2024,"Agriculture, Forestry & Fishing","Amputations, avulsions, enucleations unspecified",17
+2024,"Agriculture, Forestry & Fishing",Fractures,40
+2024,"Agriculture, Forestry & Fishing",Other,63
+2024,"Arts, Entertainment & Recreation",Amputations involving bone loss,3
+2024,"Arts, Entertainment & Recreation","Amputations, avulsions, enucleations unspecified",15
+2024,"Arts, Entertainment & Recreation",Fractures,48
+2024,"Arts, Entertainment & Recreation",Other,40
+2024,Construction,Amputations involving bone loss,86
+2024,Construction,"Amputations, avulsions, enucleations unspecified",138
+2024,Construction,Fractures,675
+2024,Construction,Other,719
+2024,Educational Services,Amputations involving bone loss,2
+2024,Educational Services,"Amputations, avulsions, enucleations unspecified",5
+2024,Educational Services,Fractures,21
+2024,Educational Services,Other,20
+2024,Finance & Insurance,"Amputations, avulsions, enucleations unspecified",1
+2024,Finance & Insurance,Fractures,12
+2024,Finance & Insurance,Other,9
+2024,Health Care & Social Assistance,Amputations involving bone loss,9
+2024,Health Care & Social Assistance,"Amputations, avulsions, enucleations unspecified",20
+2024,Health Care & Social Assistance,Fractures,254
+2024,Health Care & Social Assistance,Other,165
+2024,Information,Amputations involving bone loss,1
+2024,Information,"Amputations, avulsions, enucleations unspecified",4
+2024,Information,Fractures,38
+2024,Information,Other,31
+2024,Management of Companies,Fractures,4
+2024,Management of Companies,Other,3
+2024,Manufacturing,Amputations involving bone loss,437
+2024,Manufacturing,"Amputations, avulsions, enucleations unspecified",870
+2024,Manufacturing,Fractures,661
+2024,Manufacturing,Other,885
+2024,"Mining, Oil & Gas",Amputations involving bone loss,15
+2024,"Mining, Oil & Gas","Amputations, avulsions, enucleations unspecified",35
+2024,"Mining, Oil & Gas",Fractures,67
+2024,"Mining, Oil & Gas",Other,75
+2024,Other Services,Amputations involving bone loss,13
+2024,Other Services,"Amputations, avulsions, enucleations unspecified",41
+2024,Other Services,Fractures,58
+2024,Other Services,Other,76
+2024,Professional & Technical Services,Amputations involving bone loss,6
+2024,Professional & Technical Services,"Amputations, avulsions, enucleations unspecified",15
+2024,Professional & Technical Services,Fractures,51
+2024,Professional & Technical Services,Other,66
+2024,Public Administration,Amputations involving bone loss,4
+2024,Public Administration,"Amputations, avulsions, enucleations unspecified",11
+2024,Public Administration,Fractures,52
+2024,Public Administration,Other,72
+2024,Real Estate & Leasing,Amputations involving bone loss,5
+2024,Real Estate & Leasing,"Amputations, avulsions, enucleations unspecified",11
+2024,Real Estate & Leasing,Fractures,57
+2024,Real Estate & Leasing,Other,50
+2024,Retail Trade,Amputations involving bone loss,37
+2024,Retail Trade,"Amputations, avulsions, enucleations unspecified",89
+2024,Retail Trade,Fractures,340
+2024,Retail Trade,Other,247
+2024,Transportation & Warehousing,Amputations involving bone loss,40
+2024,Transportation & Warehousing,"Amputations, avulsions, enucleations unspecified",100
+2024,Transportation & Warehousing,Fractures,325
+2024,Transportation & Warehousing,Other,344
+2024,Unknown,Fractures,1
+2024,Unknown,Other,1
+2024,Utilities,Amputations involving bone loss,6
+2024,Utilities,"Amputations, avulsions, enucleations unspecified",20
+2024,Utilities,Fractures,40
+2024,Utilities,Other,74
+2024,Wholesale Trade,Amputations involving bone loss,56
+2024,Wholesale Trade,"Amputations, avulsions, enucleations unspecified",87
+2024,Wholesale Trade,Fractures,205
+2024,Wholesale Trade,Other,215
+2025,Accommodation & Food Services,Amputations involving bone loss,8
+2025,Accommodation & Food Services,"Amputations, avulsions, enucleations unspecified",23
+2025,Accommodation & Food Services,Fractures,57
+2025,Accommodation & Food Services,Other,100
+2025,"Admin, Support & Waste Services",Amputations involving bone loss,31
+2025,"Admin, Support & Waste Services","Amputations, avulsions, enucleations unspecified",66
+2025,"Admin, Support & Waste Services",Fractures,191
+2025,"Admin, Support & Waste Services",Other,219
+2025,"Agriculture, Forestry & Fishing",Amputations involving bone loss,15
+2025,"Agriculture, Forestry & Fishing","Amputations, avulsions, enucleations unspecified",22
+2025,"Agriculture, Forestry & Fishing",Fractures,57
+2025,"Agriculture, Forestry & Fishing",Other,64
+2025,"Arts, Entertainment & Recreation",Amputations involving bone loss,5
+2025,"Arts, Entertainment & Recreation","Amputations, avulsions, enucleations unspecified",4
+2025,"Arts, Entertainment & Recreation",Fractures,47
+2025,"Arts, Entertainment & Recreation",Other,60
+2025,Construction,Amputations involving bone loss,101
+2025,Construction,"Amputations, avulsions, enucleations unspecified",150
+2025,Construction,Fractures,679
+2025,Construction,Other,709
+2025,Educational Services,Amputations involving bone loss,1
+2025,Educational Services,"Amputations, avulsions, enucleations unspecified",2
+2025,Educational Services,Fractures,18
+2025,Educational Services,Other,26
+2025,Finance & Insurance,"Amputations, avulsions, enucleations unspecified",1
+2025,Finance & Insurance,Fractures,11
+2025,Finance & Insurance,Other,15
+2025,Health Care & Social Assistance,Amputations involving bone loss,6
+2025,Health Care & Social Assistance,"Amputations, avulsions, enucleations unspecified",22
+2025,Health Care & Social Assistance,Fractures,233
+2025,Health Care & Social Assistance,Other,189
+2025,Information,Amputations involving bone loss,5
+2025,Information,"Amputations, avulsions, enucleations unspecified",5
+2025,Information,Fractures,35
+2025,Information,Other,25
+2025,Management of Companies,Other,1
+2025,Manufacturing,Amputations involving bone loss,364
+2025,Manufacturing,"Amputations, avulsions, enucleations unspecified",738
+2025,Manufacturing,Fractures,627
+2025,Manufacturing,Other,899
+2025,"Mining, Oil & Gas",Amputations involving bone loss,22
+2025,"Mining, Oil & Gas","Amputations, avulsions, enucleations unspecified",37
+2025,"Mining, Oil & Gas",Fractures,55
+2025,"Mining, Oil & Gas",Other,76
+2025,Other Services,Amputations involving bone loss,21
+2025,Other Services,"Amputations, avulsions, enucleations unspecified",30
+2025,Other Services,Fractures,55
+2025,Other Services,Other,99
+2025,Professional & Technical Services,Amputations involving bone loss,23
+2025,Professional & Technical Services,"Amputations, avulsions, enucleations unspecified",17
+2025,Professional & Technical Services,Fractures,52
+2025,Professional & Technical Services,Other,74
+2025,Public Administration,Amputations involving bone loss,3
+2025,Public Administration,"Amputations, avulsions, enucleations unspecified",10
+2025,Public Administration,Fractures,36
+2025,Public Administration,Other,62
+2025,Real Estate & Leasing,Amputations involving bone loss,7
+2025,Real Estate & Leasing,"Amputations, avulsions, enucleations unspecified",13
+2025,Real Estate & Leasing,Fractures,55
+2025,Real Estate & Leasing,Other,44
+2025,Retail Trade,Amputations involving bone loss,34
+2025,Retail Trade,"Amputations, avulsions, enucleations unspecified",76
+2025,Retail Trade,Fractures,359
+2025,Retail Trade,Other,247
+2025,Transportation & Warehousing,Amputations involving bone loss,30
+2025,Transportation & Warehousing,"Amputations, avulsions, enucleations unspecified",59
+2025,Transportation & Warehousing,Fractures,311
+2025,Transportation & Warehousing,Other,341
+2025,Utilities,Amputations involving bone loss,10
+2025,Utilities,"Amputations, avulsions, enucleations unspecified",9
+2025,Utilities,Fractures,38
+2025,Utilities,Other,75
+2025,Wholesale Trade,Amputations involving bone loss,41
+2025,Wholesale Trade,"Amputations, avulsions, enucleations unspecified",71
+2025,Wholesale Trade,Fractures,192
+2025,Wholesale Trade,Other,197

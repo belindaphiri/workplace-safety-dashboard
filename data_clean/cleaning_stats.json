@@ -1,0 +1,9 @@
+{
+  "rows_raw": 105996,
+  "bad_date": 0,
+  "null_counts_fixed": 12,
+  "duplicates_removed": 0,
+  "rows_clean": 105996,
+  "date_min": "2015-01-01",
+  "date_max": "2025-11-30"
+}
